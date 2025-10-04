@@ -1,41 +1,48 @@
 # Meal Plan
 
-### Week of September 28, 2025
+### Week of October 5, 2025
 
 Sun:
-Sydney's Restaurant: Tacos & Bowls - Yellow rice, Avocado, Cheese, Beans, Pico, seasoned beef
+Roast chicken, roast potatoes, green beans
 
 Mon:
-Braised Eggplant w/ ground pork, Chinese food broccoli, white rice
+Israeli salad, yogurt, tahini, hard boiled eggs, za'atar, anchovies
 
 Tue:
-Pasta Aglio Olio, salad, breadsticks
+Thai Basil Chicken, white rice, snap peas
 
 Wed:
-Brisket, egg noodles, asparagus
+-- Dinner at Jocelyn's --
 
 Thu:
-Blintzes and latkes
+Instant Pot Black Bean Stew, pao frances
 
 Fri:
-Pizza, dumplings, etc.
+Pizza, dumplings, etc.  
 
 -----
+
+## Thaw from basement freezer
+- ground chicken
+- chicken legs
 
 ## Shopping List
 
 **Produce:**
-- avocado
-- asparagus
+- green beans
+- tomato
+- thai basil
+- snap peas
+- onion
+- lime
+- russets
 
 **Meat:**
-- ground beef
-- lox
+- chicken for roasting
+- andouille sausage
 
 **Dairy/Frozen:**
-- blintzes
-- latkes
+- 
 
 **Pantry:**
-- beans
-- pico
+- anchovies
