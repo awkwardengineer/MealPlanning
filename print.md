@@ -1,48 +1,65 @@
 # Meal Plan
 
-### Week of October 5, 2025
+### Week of October 12, 2025
 
 Sun:
-Roast chicken, roast potatoes, green beans
+Shabu shabu
 
 Mon:
-Israeli salad, yogurt, tahini, hard boiled eggs, za'atar, anchovies
+Salmon (or shrimp/fishy), kale, ferro
 
 Tue:
-Thai Basil Chicken, white rice, snap peas
+Ferro grain bowl
 
 Wed:
--- Dinner at Jocelyn's --
+Lemon basil pasta, sausage
 
 Thu:
-Instant Pot Black Bean Stew, pao frances
+Pork belly adobo (w/ cherry tomato), white rice, cabbage salad
 
 Fri:
-Pizza, dumplings, etc.  
+Pizza, dumplings, etc.
+
+-----
+
+## Recipe
+
+**Pork Belly Adobo**: 2 lbs pork belly, 10 cloves garlic, 1/4 cup soy sauce, 2 tbsp oyster sauce, 1/4 cup apple cider vinegar, 1/4 cup cane vinegar, 3 bay leaves. Brown pork in dutch oven, remove, add garlic, add pork and all liquids back in. Simmer 40-50 min. Cherry tomatoes to serve.
 
 -----
 
 ## Thaw from basement freezer
-- ground chicken
-- chicken legs
+- sausage
+- rice cakes
+- sponge tofu
+- shabu shabu beef
+
+-----
 
 ## Shopping List
 
 **Produce:**
-- green beans
-- tomato
-- thai basil
-- snap peas
-- onion
-- lime
-- russets
+- kale
+- ferro
+- cherry tomatoes
+- cabbage
+- basil
+- salad stuff
+- sweet potato
+- bok choy
+- shitake/enoki mushrooms
+- ginger
+- cilantro
 
 **Meat:**
-- chicken for roasting
-- andouille sausage
+- salmon
+- pork belly
 
 **Dairy/Frozen:**
-- 
+- mascarpone cheese
+- tofu
 
 **Pantry:**
-- anchovies
+- oyster sauce
+- mung beans
+- dried shitake mushrooms
