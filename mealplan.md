@@ -1,5 +1,27 @@
 # Meal Plan
 
+### Week of October 19, 2025
+
+Sun: --  
+Mon: Kung pao chicken (freezer chicken), white rice, snow peas  
+Tue: --  
+Wed: --  
+Thu: --  
+Fri: Pizza, dumplings, etc.  
+
+----
+
+### Week of October 12, 2025
+
+Sun: Shabu shabu  
+Mon: Salmon (or shrimp/fishy), kale, ferro  
+Tue: Pork belly adobo (w/ cherry tomato), white rice, cabbage salad  
+Wed: Lemon basil pasta, sausage  
+Thu: Ferro grain bowl  
+Fri: Pizza, dumplings, etc.  
+
+----
+
 ### Week of October 5, 2025
 
 Sun: Roast chicken, roast potatoes, green beans  
