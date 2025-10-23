@@ -1,5 +1,5 @@
 ground chicken
-pork shoulder (as country ribs)
+~~pork shoulder (as country ribs)~~ (finished 15 Oct 2025)
 chicken breast
 chicken thighs
 1 jamaican beef patty

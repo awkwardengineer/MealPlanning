@@ -67,6 +67,7 @@
 
 **Black Bean Stew**: 4 chix legs, 8oz andouille, 1 med onion, 2tsp cumin, 2x 4oz can hatch chiles, 8oz dried black beans, bunch cilantro w/ twine, 1 quart stock. Cook andouille in oil, then onions, then bloom the cumin. Add all ingredients, pressure cook 40 min. Simmer 5 min while shredding chix. Cilantro, sour cream, lime to serve.
 
+
 ## Pasta
 
 **Alio Olio / Putanesca**:
@@ -82,6 +83,12 @@
 **Cacio e Pepe**: 1-2oz microplaned parmesan per 8oz pasta, use oil/butter + starch water to emulsify.
 
 **Daddy Mac + Cheese**: Evaporated milk, american + other cheeses.
+
+## La Crusset
+
+**Sticky Coconut Chicken and Rice**: Brown 1.5 lbs thighs in dutch oven, remove, then cook ginger/garlic. Add 1.5 cups rice, 1 bell pepper (chopped), 1/2 cup cashews, 1 can coconut milk, 1.75 cups broth, 3 scallions (greens & whites), add salt and pepper. Cover and bake at 375 deg for 25min until liquid is absorbed. Cilantro / hot sauce to serve.
+
+**Pork Belly Adobo**: 2 lbs pork belly, 10 cloves garlic, 1/4 cup soy sauce, 2 tbsp oyster sauce, 1/4 cup apple cider vinegar, 1/4 cup cane vinegar, 3 bay leaves. Brown the pork in dutch oven, add garlic, add liquid. Simmer 40-50 min. Halved cherry tomatoes to serve.
 
 ## Give Up Meals
 

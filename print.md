@@ -1,65 +1,47 @@
-# Meal Plan
-
-### Week of October 12, 2025
+### Week of October 19, 2025
 
 Sun:
-Shabu shabu
+Polenta, mussels w/ wine + parsley, sautéed green beans with mustard vinaigrette
 
 Mon:
-Salmon (or shrimp/fishy), kale, ferro
+Kung pao chicken (freezer chicken), white rice, snow peas
 
 Tue:
-Ferro grain bowl
+Pad thai, oxtail soup, cabbage salad
 
 Wed:
-Lemon basil pasta, sausage
+Sticky coconut chicken, and rice
 
 Thu:
-Pork belly adobo (w/ cherry tomato), white rice, cabbage salad
+Oatmeal (w/ bacon, blue cheese, nuts, eggs), super smoothie
 
 Fri:
 Pizza, dumplings, etc.
 
 -----
 
-## Recipe
+### Sticky Coconut Chicken and Rice
+Brown 1.5 lbs thighs in dutch oven, remove, then cook ginger/garlic. Add 1.5 cups rice, 1 bell pepper (chopped), 1/2 cup cashews, 1 can coconut milk, 1.75 cups broth, 3 scallions (greens & whites). Add salt and pepper. Cover and bake at 375° for 25min until liquid is absorbed. Cilantro / hot sauce to serve.
 
-**Pork Belly Adobo**: 2 lbs pork belly, 10 cloves garlic, 1/4 cup soy sauce, 2 tbsp oyster sauce, 1/4 cup apple cider vinegar, 1/4 cup cane vinegar, 3 bay leaves. Brown pork in dutch oven, remove, add garlic, add pork and all liquids back in. Simmer 40-50 min. Cherry tomatoes to serve.
-
------
-
-## Thaw from basement freezer
-- sausage
-- rice cakes
-- sponge tofu
-- shabu shabu beef
+### Beef Shank / Oxtail Soup
+5lbs shanks or oxtail, ginger, shitakes, shaoxing wine, orange zest, star anise, chinese red chile, 1/2 cup raw peanuts, 4 quarts stock, fish sauce. 6oz bok choy, cilantro to serve.
 
 -----
 
 ## Shopping List
 
-**Produce:**
+**Produce:**            **Pantry:**             **Meat:**
+- ginger 👀☐           - white wine 👀☐       - mussels
+- bell peppers 👀☐     - cashews 👀☐          - oxtail (4lbs)
+- parsley               - rice noodles 👀☐
+- green beans           - star anise 👀☐       **Thaw:**
+- cilantro              - walnuts 👀☐          - chinese chicken
+- snow peas             - pad thai sauce        - chicken legs, 1.5lb
+- orange (for zest)     - coconut milk
+- bok choy                                      **Dairy:**
+- chinese red chile                             - yogurt 👀☐
+- cabbage                                       - blue cheese
+- carrots (for shredding)
+- scallions
 - kale
-- ferro
-- cherry tomatoes
-- cabbage
-- basil
-- salad stuff
-- sweet potato
-- bok choy
-- shitake/enoki mushrooms
-- ginger
-- cilantro
-
-**Meat:**
-- salmon
-- pork belly
-
-**Dairy/Frozen:**
-- mascarpone cheese
-- tofu
-
-**Pantry:**
-- oyster sauce
-- mung beans
-- dried shitake mushrooms
+- banana

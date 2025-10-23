@@ -1,12 +1,23 @@
 # Meal Plan
 
+### Week of October 26, 2025
+
+Sun: Shrimp (w/ garlic, butter, wine), yellow rice, green beans (w/ garlic + lemon)  
+Mon: Baked potato bar (canned chili, cheese, bacon, broccoli, sour cream)  
+Tue: Freezer ground meat, rice, spam, egg, cabbage salad  
+Wed: Miso butter and mushroom pasta, tofu, smashed cucumber salad  
+Thu: Mississippi roast, ferro, salad kit  
+Fri: Pizza, dumplings, etc.  
+
+----
+
 ### Week of October 19, 2025
 
-Sun: --  
-Mon: Kung pao chicken (freezer chicken), white rice, snow peas  
-Tue: --  
-Wed: --  
-Thu: --  
+Sun: Polenta, mussels w/ wine + parsley, sautéed green beans with mustard vinaigrette  
+Mon: Kung pao chicken (freezer chicken), white rice, snow peas, nuggets  
+Tue: Pad thai, oxtail soup, cabbage salad  
+Wed: Sticky coconut chicken, and rice  
+Thu: Oatmeal (w/ bacon, blue cheese, nuts, eggs), super smoothie  
 Fri: Pizza, dumplings, etc.  
 
 ----

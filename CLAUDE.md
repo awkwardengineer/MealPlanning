@@ -22,3 +22,50 @@ Focus on dinner planning only
 - Use concise, comma-separated format for meal descriptions (e.g. "pasta aglio olio, chicken, salad stuff" rather than "pasta aglio olio with precooked chicken and salad stuff").
 - We typically try to include a protein and a vegetable with each meal.
 - **Avoid quinoa** - we don't like it.
+
+## Print File Format
+
+The print.md file should follow this specific format:
+
+```
+# Meal Plan
+
+### Week of [Date]
+
+Sun:
+[meal description]
+
+Mon:
+[meal description]
+
+Tue:
+[meal description]
+
+Wed:
+[meal description]
+
+Thu:
+[meal description]
+
+Fri:
+[meal description]
+
+-----
+
+## Shopping List
+
+**Produce:**                   **Meat:**                     **Thaw:**
+- [item]                       - [item]                      - [item]
+- [item]                       - [item]                      - [item]
+
+**Dairy/Frozen:**               **Pantry:**
+- [item]                       - [item]
+- [item]                       - [item]
+```
+
+The shopping list should be organized into these columns (only include columns that have items):
+1. **Produce** - fresh vegetables, fruits, herbs
+2. **Meat** - fresh meat, seafood, poultry
+3. **Thaw** - frozen items to defrost
+4. **Dairy/Frozen** - dairy products and frozen items
+5. **Pantry** - dry goods, condiments, spices, etc.
