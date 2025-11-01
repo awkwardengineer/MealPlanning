@@ -28,8 +28,6 @@ Focus on dinner planning only
 The print.md file should follow this specific format:
 
 ```
-# Meal Plan
-
 ### Week of [Date]
 
 Sun:
@@ -54,16 +52,29 @@ Fri:
 
 ## Shopping List
 
-**Produce:**                   **Meat:**                     **Thaw:**
-- [item]                       - [item]                      - [item]
-- [item]                       - [item]                      - [item]
 
-**Dairy/Frozen:**               **Pantry:**
-- [item]                       - [item]
-- [item]                       - [item]
+### Produce
+- [item]
+- [item]
+
+### Meat
+- [item]
+- [item]
+
+### Thaw
+- [item]
+- [item]
+
+### Dairy/Frozen
+- [item]
+- [item]
+
+### Pantry
+- [item]
+- [item]
 ```
 
-The shopping list should be organized into these columns (only include columns that have items):
+The shopping list should be organized into these sections (only include sections that have items):
 1. **Produce** - fresh vegetables, fruits, herbs
 2. **Meat** - fresh meat, seafood, poultry
 3. **Thaw** - frozen items to defrost

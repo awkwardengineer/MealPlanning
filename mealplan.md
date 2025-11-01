@@ -1,8 +1,30 @@
 # Meal Plan
 
+### Week of November 9, 2025
+
+Sun: Ginger chicken, rice
+Mon:
+Tue: Chicken mole, yellow rice, beans
+Wed: Oyakadon, rice, miso soup, cabbage salad
+Thu:
+Fri:
+
+----
+
+### Week of November 2, 2025
+
+Sun: -- Cooking Class --  
+Mon: Shrimp (w/ garlic, butter, wine), yellow rice, green beans (w/ garlic + lemon)  
+Tue: Tuna mayo w/ sesame, rice, miso soup, cabbage salad  
+Wed: Mac and cheese, steamed broccoli w/ garlic  
+Thu: Beef and broccoli, egg drop soup, Sichuan green beans  
+Fri: Pizza, dumplings, etc.  
+
+----
+
 ### Week of October 26, 2025
 
-Sun: Shrimp (w/ garlic, butter, wine), yellow rice, green beans (w/ garlic + lemon)  
+Sun: Taco night (pickled onion, cilantro, pico, crema, beans, ground beef, shredded cheese, shredded lettuce, chili lime chicken)  
 Mon: Baked potato bar (canned chili, cheese, bacon, broccoli, sour cream)  
 Tue: Freezer ground meat, rice, spam, egg, cabbage salad  
 Wed: Miso butter and mushroom pasta, tofu, smashed cucumber salad  
