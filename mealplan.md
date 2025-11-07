@@ -1,12 +1,23 @@
 # Meal Plan
 
+### Week of November 16, 2025
+
+Sun: Homemade ramen
+Mon: Fish, creamed spinach, roast potatoes
+Tue: Shakshuka, Israeli salad, pita, yogurt
+Wed: Patty melt, chips, fresh fruit
+Thu: Chicken cacciatore, pasta, chard
+Fri:
+
+----
+
 ### Week of November 9, 2025
 
 Sun: Ginger chicken, rice
-Mon:
-Tue: Chicken mole, yellow rice, beans
-Wed: Oyakadon, rice, miso soup, cabbage salad
-Thu:
+Mon: Oyakadon, rice, miso soup, cabbage salad
+Tue: Chicken mole, yellow rice, beans (flex to a taco)
+Wed: Toastie w/ bacon (and tomato), cole slaw, chips
+Thu: Japanese curry vegetable w/ leftover rice
 Fri:
 
 ----

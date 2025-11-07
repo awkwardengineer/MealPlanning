@@ -18,7 +18,6 @@ Beef and broccoli, egg drop soup, Sichuan green beans
 Fri:
 Pizza, dumplings, etc.
 
-
 -----
 
 ## Shopping List
