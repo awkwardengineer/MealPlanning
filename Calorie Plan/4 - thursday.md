@@ -1,25 +1,23 @@
-| Meal          | Food                                           | Carbs (g) | Protein (g) | Fat (g) | Calories |
-| ------------- | ---------------------------------------------- | --------- | ----------- | ------- | -------- |
-| Lunch         | Toastie (leftover from Wednesday)              |           |             |         |          |
-|               | Bread, 1.5 slices (60g)                        | 30        | 6           | 2       | 158      |
-|               | Bacon, 2 slices (30g)                          | 0         | 6           | 9       | 117      |
-|               | Cheese, cheddar, 30g                           | 1         | 7           | 7       | 95       |
-|               | Tomato, 40g                                    | 2         | 0           | 0       | 8        |
-|               | Cole slaw, 80g                                 | 6         | 1           | 4       | 56       |
-|               | Chips, 25g                                     | 12        | 2           | 4       | 92       |
-|               | **Lunch Subtotal**                             | **51**    | **21**      | **30**  | **521**  |
-| Early snack   | Chobani fruit on bottom yogurt                 | 25        | 12          | 0       | 148      |
-| Late snack    | Greek yogurt, plain, 200g                      | 8         | 20          | 0       | 112      |
-|               | Berries, mixed, 100g                           | 12        | 1           | 0       | 52       |
-|               | Granola, 20g                                   | 12        | 2           | 3       | 75       |
-|               | **Late snack Subtotal**                        | **32**    | **23**      | **3**   | **239**  |
-| Dinner        | Japanese curry vegetable                       |           |             |         |          |
-|               | Mixed vegetables (potato, carrot, onion), 250g | 38        | 4           | 0       | 168      |
-|               | Curry roux, 60g                                | 24        | 2           | 10      | 186      |
-|               | White rice, cooked, 180g                       | 42        | 4           | 0       | 184      |
-|               | Tofu, firm, 220g                               | 4         | 22          | 10      | 174      |
-|               | **Dinner Subtotal**                            | **108**   | **32**      | **20**  | **712**  |
-| Evening snack | Dark chocolate chips, 18g                      | 10        | 1           | 6       | 98       |
-|               | Pecans, 12g                                    | 2         | 2           | 8       | 84       |
-|               | **Evening snack Subtotal**                     | **12**    | **3**       | **14**  | **182**  |
-| **Total**     |                                                | **228**   | **102**     | **63**  | **1822** |
+| Meal          | Food                                        | Carbs (g) | Protein (g) | Fat (g) | Calories |
+| ------------- | ------------------------------------------- | --------- | ----------- | ------- | -------- |
+| Lunch         | Pupusas, cabbage slaw (leftover from Wednesday) |           |             |         |          |
+|               | Pupusas (masa, cheese, beans), 1 large (100g)    | 25        | 6           | 4       | 160      |
+|               | Cabbage slaw, 150g                               | 9         | 2           | 0       | 42       |
+|               | **Lunch Subtotal**                              | **34**    | **8**       | **4**   | **202**  |
+| Early snack   | Siggi's yogurt or Icelandic Provisions skyr | 8         | 18          | 7        | 170      |
+| Late snack    | Banana, medium                              | 27        | 1           | 0       | 112      |
+|               | Apple, small                                 | 15        | 0           | 0       | 60       |
+|               | **Late snack Subtotal**                     | **42**    | **1**       | **0**   | **172**  |
+| Dinner        | Thanksgiving turkey                           |           |             |         |          |
+|               | Turkey breast, 200g                             | 0         | 60          | 4       | 276      |
+|               | Turkey dark meat, 80g                            | 0         | 18          | 8       | 144      |
+|               | Stuffing, 120g                                  | 30        | 4           | 8       | 224      |
+|               | Mashed potatoes, 150g                           | 30        | 3           | 3       | 159      |
+|               | Gravy, 60g                                      | 3         | 2           | 4       | 63       |
+|               | Green beans, 100g                               | 6         | 2           | 0       | 32       |
+|               | Cranberry sauce, 40g                            | 12        | 0           | 0       | 48       |
+|               | **Dinner Subtotal**                            | **81**    | **89**      | **19**  | **946**  |
+| Evening snack | Dark chocolate chips, 15g                   | 8         | 1           | 5       | 82       |
+|               | Pecans, 30g                                 | 6         | 4           | 20      | 210      |
+|               | **Evening snack Subtotal**                  | **14**    | **5**       | **25**  | **292**  |
+| **Total**     |                                             | **179**   | **121**     | **55**  | **1782** |
