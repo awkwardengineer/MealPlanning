@@ -1,10 +1,43 @@
 # Meal Plan
 
+### Week of December 7, 2025
+
+Sun:
+Mon: Japanese curry, rice, chicken nuggets, steamed broccoli
+Tue: Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)
+Wed:
+Thu:
+Fri:
+
+----
+
+### Week of November 30, 2025
+
+Sun: Shrimp w/ garlic and parsley, serrano ham, olives, pan con tomate
+Mon: Thai basil chicken, shredded cabbage w/ lime & fish sauce
+Tue: Pupusas, cabbage slaw, sauce
+Wed: Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap
+Thu: Local beef stew
+Fri:
+
+----
+
+### Week of November 23, 2025
+
+Sun: Shrimp and grits (Serious Eats), sautéed cabbage
+Mon: Big potato bar with home-made chili and bacon
+Tue: Pasta with meat sauce, green beans
+Wed: Pupusas, cabbage slaw
+Thu: Thanksgiving turkey
+Fri: Leftovers
+
+----
+
 ### Week of November 16, 2025
 
-Sun: Homemade ramen
-Mon: Fish, creamed spinach, roast potatoes
-Tue: Shakshuka, Israeli salad, pita, yogurt
+Sun: Fish, creamed spinach, roast potatoes
+Mon: Homemade ramen
+Tue: Oyakadon, rice, miso soup, cabbage salad
 Wed: Patty melt, chips, fresh fruit
 Thu: Chicken cacciatore, pasta, chard
 Fri:
@@ -14,8 +47,8 @@ Fri:
 ### Week of November 9, 2025
 
 Sun: Ginger chicken, rice
-Mon: Oyakadon, rice, miso soup, cabbage salad
-Tue: Chicken mole, yellow rice, beans (flex to a taco)
+Mon: Chicken mole, yellow rice, beans (flex to a taco)
+Tue: Shakshuka, Israeli salad, pita, yogurt
 Wed: Toastie w/ bacon (and tomato), cole slaw, chips
 Thu: Japanese curry vegetable w/ leftover rice
 Fri:

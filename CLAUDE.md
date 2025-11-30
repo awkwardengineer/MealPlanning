@@ -18,6 +18,8 @@ Focus on dinner planning only
 ## Meal Planning Process
 
 - Use the mealplan.md file to create a running record of meals and dates, so we don't "fall into a rut" and make the same things over and over.
+- **Note**: The mealplan.md file is organized in reverse chronological order, with the newest/most recent weeks at the top.
+- When brainstorming meal ideas, check recent weeks in the meal plan to avoid repeating suggestions that were already offered. Provide fresh, varied suggestions each time.
 - If a recipe doesn't appear in the recipes list, but is added via chat to the meal plan, ask to add it to the recipe's list.
 - Use concise, comma-separated format for meal descriptions (e.g. "pasta aglio olio, chicken, salad stuff" rather than "pasta aglio olio with precooked chicken and salad stuff").
 - We typically try to include a protein and a vegetable with each meal.
@@ -52,31 +54,17 @@ Fri:
 
 ## Shopping List
 
-
-### Produce
-- [item]
-- [item]
-
-### Meat
-- [item]
-- [item]
-
-### Thaw
-- [item]
-- [item]
-
-### Dairy/Frozen
-- [item]
-- [item]
-
-### Pantry
-- [item]
-- [item]
+| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
+|-------------|----------|----------|------------------|------------|
+| [item] | [item] | [item] | [item] | [item] |
+| [item] | [item] | [item] | [item] | [item] |
 ```
 
-The shopping list should be organized into these sections (only include sections that have items):
+The shopping list should be organized into a markdown table with these columns (only include columns that have items):
 1. **Produce** - fresh vegetables, fruits, herbs
 2. **Meat** - fresh meat, seafood, poultry
 3. **Thaw** - frozen items to defrost
 4. **Dairy/Frozen** - dairy products and frozen items
 5. **Pantry** - dry goods, condiments, spices, etc.
+
+**Note**: The shopping list is built together line by line during the planning conversation, not automatically generated.

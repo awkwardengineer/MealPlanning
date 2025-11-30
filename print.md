@@ -1,30 +1,34 @@
-### Week of November 2, 2025
+### Week of November 30, 2025
 
 Sun:
--- Cooking Class --
+Shrimp w/ garlic and parsley, serrano ham, olives, pan con tomate
 
 Mon:
-Shrimp (w/ garlic, butter, wine), yellow rice, green beans (w/ garlic + lemon)
+Thai basil chicken, shredded cabbage w/ lime & fish sauce
 
 Tue:
-Tuna mayo w/ sesame, rice, miso soup, cabbage salad
+Pupusas, cabbage slaw, sauce
 
 Wed:
-Mac and cheese, steamed broccoli w/ garlic
+Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap
 
 Thu:
-Beef and broccoli, egg drop soup, Sichuan green beans
+Local beef stew
 
 Fri:
-Pizza, dumplings, etc.
 
 -----
 
 ## Shopping List
 
-| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
-|-------------|----------|----------|------------------|------------|
-| green beans | shrimp   | steak 👀 | cheddar cheese 👀 | yellow rice |
-| cabbage 👀  | tuna 👀  |          | american cheese 👀 | pasta 👀 |
-| broccoli    |          |          | eggs 👀          | ice coffee |
-|             |          |          |                  | dashi packet |
+| **Produce** | **Meat**       | **Thaw**       | **Dairy/Frozen** | **Pantry**               |
+| ----------- | -------------- | -------------- | ---------------- | ------------------------ |
+| Tomato      | Shrimp         | Ground chicken |                  | Bread                    |
+| Thai basil  | Serrano ham    |                |                  | Nishiki Brown Rice       |
+| Cabbage 👀  | Marinated beef |                |                  | Pickled veggies (H Mart) |
+| Lime 👀     | Shank bone     |                |                  | Soy sauce 👀             |
+| Potato      |                |                |                  |                          |
+| Carrot      |                |                |                  |                          |
+| Celery      |                |                |                  |                          |
+| Onion       |                |                |                  |                          |
+| Ginger      |                |                |                  |                          |
