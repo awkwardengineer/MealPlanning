@@ -70,6 +70,10 @@
 **Black Bean Stew**: 4 chix legs, 8oz andouille, 1 med onion, 2tsp cumin, 2x 4oz can hatch chiles, 8oz dried black beans, bunch cilantro w/ twine, 1 quart stock. Cook andouille in oil, then onions, then bloom the cumin. Add all ingredients, pressure cook 40 min. Simmer 5 min while shredding chix. Cilantro, sour cream, lime to serve.
 
 
+## Seafood
+
+**Shrimp Etouffe**:
+
 ## Pasta
 
 **Alio Olio / Putanesca**:

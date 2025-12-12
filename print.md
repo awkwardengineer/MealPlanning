@@ -1,19 +1,19 @@
-### Week of November 30, 2025
+### Week of December 7, 2025
 
 Sun:
-Shrimp w/ garlic and parsley, serrano ham, olives, pan con tomate
+Shrimp etouffe, French bread
 
 Mon:
-Thai basil chicken, shredded cabbage w/ lime & fish sauce
+Japanese curry, rice, chicken nuggets, steamed broccoli
 
 Tue:
-Pupusas, cabbage slaw, sauce
+Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)
 
 Wed:
-Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap
+Miso butter pasta, tofu, side salad
 
 Thu:
-Local beef stew
+Meatloaf, potatoes, green beans
 
 Fri:
 
@@ -21,14 +21,13 @@ Fri:
 
 ## Shopping List
 
-| **Produce** | **Meat**       | **Thaw**       | **Dairy/Frozen** | **Pantry**               |
-| ----------- | -------------- | -------------- | ---------------- | ------------------------ |
-| Tomato      | Shrimp         | Ground chicken |                  | Bread                    |
-| Thai basil  | Serrano ham    |                |                  | Nishiki Brown Rice       |
-| Cabbage 👀  | Marinated beef |                |                  | Pickled veggies (H Mart) |
-| Lime 👀     | Shank bone     |                |                  | Soy sauce 👀             |
-| Potato      |                |                |                  |                          |
-| Carrot      |                |                |                  |                          |
-| Celery      |                |                |                  |                          |
-| Onion       |                |                |                  |                          |
-| Ginger      |                |                |                  |                          |
+| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
+|-------------|----------|----------|------------------|------------|
+| Onion (3x) | Shrimp | | Cottage Cheese (Friendship or Good) | French bread |
+| Red pepper | Andouille sausage | | Yogurt | Black beans (2x) |
+| Potato | Ground pork (1lb) | | | White beans |
+| Carrot (2x) | Ground beef (1lb) | | | Brown beans |
+| Daikon | | | | Gelatin 👀 |
+| Broccoli | | | | Pine Bros. Cough Drops |
+| Baby potatoes | | | | |
+| Green beans | | | | |

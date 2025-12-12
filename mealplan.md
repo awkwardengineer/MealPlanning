@@ -1,12 +1,39 @@
 # Meal Plan
 
+### Next
+
+Sopa de Mani
+Cuban Beans
+Mufongo
+Thai Green Curry
+Roux based mac and cheese, broccoli
+Coconut black bean soup
+Mopo Tofu
+Smitten Kitten Pizza Beans (Saucy Cheesy Gigantic Bans)
+[NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)
+[Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)
+
+
+----
+
+### Week of December 14, 2025
+
+Sun: Sea bass, Serious Eats crispy sweet potato fries, salad stuff
+Mon: Chicken paprikash, egg noodles
+Tue: Tuna Mayo, Rice, Cabbage, Miso Soup
+Wed: Family Night
+Thu: Xander's birthday
+Fri:
+
+----
+
 ### Week of December 7, 2025
 
-Sun:
+Sun: Shrimp etouffe, French bread
 Mon: Japanese curry, rice, chicken nuggets, steamed broccoli
 Tue: Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)
-Wed:
-Thu:
+Wed: Miso butter pasta, tofu, side salad
+Thu: Meatloaf, potatoes, green beans
 Fri:
 
 ----
