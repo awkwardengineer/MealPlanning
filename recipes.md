@@ -37,6 +37,8 @@
 
 **Rice pilaf**:
 
+**Mufongo**:
+
 ## Wok
 
 **Beef, Chicken + {insert}**: Lighter sauce: stock + soy. Darker sauce: oyster + soy. Choice of {broccoli, snap peas, snow peas}.
@@ -96,6 +98,8 @@
 
 **Pork Belly Adobo**: 2 lbs pork belly, 10 cloves garlic, 1/4 cup soy sauce, 2 tbsp oyster sauce, 1/4 cup apple cider vinegar, 1/4 cup cane vinegar, 3 bay leaves. Brown the pork in dutch oven, add garlic, add liquid. Simmer 40-50 min. Halved cherry tomatoes to serve.
 
+**Cuban Beans**:
+
 ## Give Up Meals
 
 **Hot dog**  
@@ -109,3 +113,11 @@
 **Musubi**  
 **Rice + Fried Egg + { insert }**: Hot dog, spam, kimchi, bulgogi, furikake, gochujang  
 **Sloppy Joes**
+
+## Sandwiches
+
+**Cubano**: Ham, pulled pork, mustard, cheese, pickles, bread.
+
+## Tacos
+
+**Korean Taco**: Gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream.

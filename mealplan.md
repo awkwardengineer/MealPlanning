@@ -2,11 +2,7 @@
 
 ### Next
 
-Sopa de Mani
-Cuban Beans
-Mufongo
 Thai Green Curry
-Roux based mac and cheese, broccoli
 Coconut black bean soup
 Mopo Tofu
 Smitten Kitten Pizza Beans (Saucy Cheesy Gigantic Bans)
@@ -14,15 +10,38 @@ Smitten Kitten Pizza Beans (Saucy Cheesy Gigantic Bans)
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)
 
 
+
+----
+
+### Week of January 11, 2026
+
+Fri: Hot Dog Octopus, Rice, Fried Egg
+Sat: Leftovers
+Sun: Sweet and sour meatballs, egg noodles, steamed broccoli
+Mon: Pizza beans, sausage, steamed green beans
+Tue: Thai curry, rice, cabbage salad
+Wed: Chicken alfredo, side salad
+Thu: Sopa de Mani, rice, plantains 
+Fri: Pizza / takeout.
+
+----
+
+### Week of January 4, 2026
+
+Thu: Spaghetti carbonara and salad
+Fri: BBQ pork, mufongo, collard greens
+Sat: Korean tacos (gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream), Hmart pickles
+Sun: Cubanos (ham, pulled pork, mustard, cheese, pickles, bread), Cuban beans, tostados
+
 ----
 
 ### Week of December 14, 2025
 
 Sun: Sea bass, Serious Eats crispy sweet potato fries, salad stuff
-Mon: Chicken paprikash, egg noodles
-Tue: Tuna Mayo, Rice, Cabbage, Miso Soup
+Mon: Tuna Mayo, Rice, Cabbage, Miso Soup
+Tue: Chicken paprikash, egg noodles, steamed broccoli
 Wed: Family Night
-Thu: Xander's birthday
+Thu: Roux based mac and cheese
 Fri:
 
 ----

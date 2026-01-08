@@ -1,21 +1,16 @@
-### Week of December 7, 2025
-
-Sun:
-Shrimp etouffe, French bread
-
-Mon:
-Japanese curry, rice, chicken nuggets, steamed broccoli
-
-Tue:
-Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)
-
-Wed:
-Miso butter pasta, tofu, side salad
+### Week of December 28, 2025
 
 Thu:
-Meatloaf, potatoes, green beans
+Spaghetti carbonara and salad
 
 Fri:
+BBQ pork, mufongo, collard greens
+
+Sat:
+Korean tacos (gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream), Hmart pickles
+
+Sun:
+Cubanos (ham, pulled pork, mustard, cheese, pickles, bread), Cuban beans, tostados
 
 -----
 
@@ -23,11 +18,10 @@ Fri:
 
 | **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
 |-------------|----------|----------|------------------|------------|
-| Onion (3x) | Shrimp | | Cottage Cheese (Friendship or Good) | French bread |
-| Red pepper | Andouille sausage | | Yogurt | Black beans (2x) |
-| Potato | Ground pork (1lb) | | | White beans |
-| Carrot (2x) | Ground beef (1lb) | | | Brown beans |
-| Daikon | | | | Gelatin 👀 |
-| Broccoli | | | | Pine Bros. Cough Drops |
-| Baby potatoes | | | | |
-| Green beans | | | | |
+| Collards | Ham | | Swiss cheese 👀 | Pao Frances |
+| Cilantro | | | | Black beans 👀 |
+| Lime | | | | |
+| Avocado | | | | |
+| Coleslaw mix | | | | |
+| Hmart pickles | | | | |
+| Bell pepper 👀 | | | | |
