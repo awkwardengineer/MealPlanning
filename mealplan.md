@@ -8,6 +8,10 @@ Mopo Tofu
 Smitten Kitten Pizza Beans (Saucy Cheesy Gigantic Bans)
 [NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)
+Jerk chicken / coconut rice
+Roast chicken
+Roast turkey
+Roast beef
 
 
 
@@ -15,89 +19,89 @@ Smitten Kitten Pizza Beans (Saucy Cheesy Gigantic Bans)
 
 ### Week of January 11, 2026
 
-Fri: Hot Dog Octopus, Rice, Fried Egg
-Sat: Leftovers
-Sun: Sweet and sour meatballs, egg noodles, steamed broccoli
-Mon: Pizza beans, sausage, steamed green beans
-Tue: Thai curry, rice, cabbage salad
-Wed: Chicken alfredo, side salad
-Thu: Sopa de Mani, rice, plantains 
-Fri: Pizza / takeout.
+Fri: Hot Dog Octopus, Rice, Fried Egg  
+Sat: Leftovers  
+Sun: Sweet and sour meatballs, egg noodles, steamed broccoli  
+Mon: Pizza beans, sausage, steamed green beans  
+Tue: Thai curry, rice, cabbage salad  
+Wed: Chicken alfredo, side salad  
+Thu: Sopa de Mani, rice, plantains  
+Fri: Pizza / takeout.  
 
 ----
 
 ### Week of January 4, 2026
 
-Thu: Spaghetti carbonara and salad
-Fri: BBQ pork, mufongo, collard greens
-Sat: Korean tacos (gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream), Hmart pickles
-Sun: Cubanos (ham, pulled pork, mustard, cheese, pickles, bread), Cuban beans, tostados
+Thu: Spaghetti carbonara and salad  
+Fri: BBQ pork, mufongo, collard greens  
+Sat: Korean tacos (gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream), Hmart pickles  
+Sun: Cubanos (ham, pulled pork, mustard, cheese, pickles, bread), Cuban beans, tostados  
 
 ----
 
 ### Week of December 14, 2025
 
-Sun: Sea bass, Serious Eats crispy sweet potato fries, salad stuff
-Mon: Tuna Mayo, Rice, Cabbage, Miso Soup
-Tue: Chicken paprikash, egg noodles, steamed broccoli
-Wed: Family Night
-Thu: Roux based mac and cheese
-Fri:
+Sun: Sea bass, Serious Eats crispy sweet potato fries, salad stuff  
+Mon: Tuna Mayo, Rice, Cabbage, Miso Soup  
+Tue: Chicken paprikash, egg noodles, steamed broccoli  
+Wed: Family Night  
+Thu: Roux based mac and cheese  
+Fri:  
 
 ----
 
 ### Week of December 7, 2025
 
-Sun: Shrimp etouffe, French bread
-Mon: Japanese curry, rice, chicken nuggets, steamed broccoli
-Tue: Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)
-Wed: Miso butter pasta, tofu, side salad
-Thu: Meatloaf, potatoes, green beans
-Fri:
+Sun: Shrimp etouffe, French bread  
+Mon: Japanese curry, rice, chicken nuggets, steamed broccoli  
+Tue: Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)  
+Wed: Miso butter pasta, tofu, side salad  
+Thu: Meatloaf, potatoes, green beans  
+Fri:  
 
 ----
 
 ### Week of November 30, 2025
 
-Sun: Shrimp w/ garlic and parsley, serrano ham, olives, pan con tomate
-Mon: Thai basil chicken, shredded cabbage w/ lime & fish sauce
-Tue: Pupusas, cabbage slaw, sauce
-Wed: Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap
-Thu: Local beef stew
-Fri:
+Sun: Shrimp w/ garlic and parsley, serrano ham, olives, pan con tomate  
+Mon: Thai basil chicken, shredded cabbage w/ lime & fish sauce  
+Tue: Pupusas, cabbage slaw, sauce  
+Wed: Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap  
+Thu: Local beef stew  
+Fri:  
 
 ----
 
 ### Week of November 23, 2025
 
-Sun: Shrimp and grits (Serious Eats), sautéed cabbage
-Mon: Big potato bar with home-made chili and bacon
-Tue: Pasta with meat sauce, green beans
-Wed: Pupusas, cabbage slaw
-Thu: Thanksgiving turkey
-Fri: Leftovers
+Sun: Shrimp and grits (Serious Eats), sautéed cabbage  
+Mon: Big potato bar with home-made chili and bacon  
+Tue: Pasta with meat sauce, green beans  
+Wed: Pupusas, cabbage slaw  
+Thu: Thanksgiving turkey  
+Fri: Leftovers  
 
 ----
 
 ### Week of November 16, 2025
 
-Sun: Fish, creamed spinach, roast potatoes
-Mon: Homemade ramen
-Tue: Oyakadon, rice, miso soup, cabbage salad
-Wed: Patty melt, chips, fresh fruit
-Thu: Chicken cacciatore, pasta, chard
-Fri:
+Sun: Fish, creamed spinach, roast potatoes  
+Mon: Homemade ramen  
+Tue: Oyakadon, rice, miso soup, cabbage salad  
+Wed: Patty melt, chips, fresh fruit  
+Thu: Chicken cacciatore, pasta, chard  
+Fri:  
 
 ----
 
 ### Week of November 9, 2025
 
-Sun: Ginger chicken, rice
-Mon: Chicken mole, yellow rice, beans (flex to a taco)
-Tue: Shakshuka, Israeli salad, pita, yogurt
-Wed: Toastie w/ bacon (and tomato), cole slaw, chips
-Thu: Japanese curry vegetable w/ leftover rice
-Fri:
+Sun: Ginger chicken, rice  
+Mon: Chicken mole, yellow rice, beans (flex to a taco)  
+Tue: Shakshuka, Israeli salad, pita, yogurt  
+Wed: Toastie w/ bacon (and tomato), cole slaw, chips  
+Thu: Japanese curry vegetable w/ leftover rice  
+Fri:  
 
 ----
 
