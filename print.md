@@ -1,27 +1,29 @@
-### Week of December 28, 2025
-
-Thu:
-Spaghetti carbonara and salad
-
-Fri:
-BBQ pork, mufongo, collard greens
-
-Sat:
-Korean tacos (gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream), Hmart pickles
+### Week of January 25, 2026
 
 Sun:
-Cubanos (ham, pulled pork, mustard, cheese, pickles, bread), Cuban beans, tostados
+Chicken thigh picata, risotto, broccoli
+
+Mon:
+Mopo Tofu, Mini Hot Dogs, Rice, Cabbage, Miso soup
+
+Tue:
+Black bean coconut soup, French bread, citrus-y salad or slaw
+
+Wed:
+Parmesan Breaded Chicken Breast, Pesto Pasta, Salad
+
+Thu:
+Leftover Mississippi Roast, Polenta, Chopped Spinach
+
+Fri:
 
 -----
 
 ## Shopping List
 
-| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
-|-------------|----------|----------|------------------|------------|
-| Collards | Ham | | Swiss cheese 👀 | Pao Frances |
-| Cilantro | | | | Black beans 👀 |
-| Lime | | | | |
-| Avocado | | | | |
-| Coleslaw mix | | | | |
-| Hmart pickles | | | | |
-| Bell pepper 👀 | | | | |
+| **Produce**    | **Meat**       | **Thaw** | **Dairy/Frozen** | **Pantry**     |
+| -------------- | -------------- | -------- | ---------------- | -------------- |
+| Broccoli       | Chicken thighs |          | Milk             | Arborio rice   |
+| Lemon 👀       | Ham hocks      |          |                  | Doubanjiang 👀 |
+| Purple cabbage |                |          |                  | Black beans 👀 |
+| Carrot         |                |          |                  |                |

@@ -45,6 +45,8 @@
 
 **Sweet & Sour Chicken**:
 
+**Mopo Tofu**: Brown ground pork, add doubanjiang, garlic, ginger. Add cubed firm tofu, stock, soy sauce, rice wine. Simmer, thicken with cornstarch slurry. Finish with Sichuan peppercorns and scallions.
+
 **Braised Eggplant**: 1 cup liquid, {stock, miso, fish sauce, oyster sauce, gochujang} + cornstarch, ground pork.
 
 **Fluffiest Eggs**: Teeny butter cubes + ½ tsp cornstarch per egg.
@@ -91,6 +93,8 @@
 **Cacio e Pepe**: 1-2oz microplaned parmesan per 8oz pasta, use oil/butter + starch water to emulsify.
 
 **Daddy Mac + Cheese**: Evaporated milk, american + other cheeses.
+
+**Pizza Beans**:
 
 ## La Crusset
 

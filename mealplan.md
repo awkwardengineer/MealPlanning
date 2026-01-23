@@ -2,10 +2,6 @@
 
 ### Next
 
-Thai Green Curry
-Coconut black bean soup
-Mopo Tofu
-Smitten Kitten Pizza Beans (Saucy Cheesy Gigantic Bans)
 [NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)
 Jerk chicken / coconut rice
@@ -14,6 +10,27 @@ Roast turkey
 Roast beef
 
 
+
+----
+
+### Week of January 25, 2026
+
+Sun: Chicken thigh picata, risotto, broccoli  
+Mon: Mopo Tofu, Mini Hot Dogs, Rice, Cabbage, Miso soup  
+Tue: Black bean coconut soup, French bread, citrus-y salad or slaw  
+Wed: Parmesan Breaded Chicken Breast, Pesto Pasta, Salad  
+Thu: Leftover Mississippi Roast, Polenta, Chopped Spinach  
+Fri:  
+
+----
+
+### Week of January 18, 2026
+
+Mon: Anniversary dinner at Rino's  
+Tue: Shake n' Bake, Ferro, Broccoli  
+Wed: Tuna Noodle Casserole, Salad  
+Thu: Fish Sticks, Rice, Cabbage Salad, Tots, Miso  
+Fri: Leftovers?  
 
 ----
 
