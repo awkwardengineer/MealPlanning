@@ -4,12 +4,32 @@
 
 [NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)
-Jerk chicken / coconut rice
 Roast chicken
 Roast turkey
 Roast beef
 
+----
 
+### Week of February 8, 2026
+
+Sun: Salmon, rice pilaf, green beans
+Mon: Steel cut oats, bacon, sautéed spinach, roasted mushrooms
+Tue: Jerk chicken and coconut rice, cole slaw
+Wed: Egg drop soup, fish sticks, leftover rice, cabbage salad
+Thu: Israeli salad, yogurt, tahini, hard boiled eggs, za'atar, anchovies
+Fri:
+
+
+----
+
+### Week of February 1, 2026
+
+Sun: Roast Beef, Kenji Potatoes
+Mon: Baked Potato Bar, Chili
+Tue: Mole Chicken
+Wed: Chicken Fettucine Alfredo
+Thu: Japanese Curry
+Fri:
 
 ----
 
