@@ -1,19 +1,19 @@
-### Week of January 25, 2026
+### Week of March 8, 2026
 
 Sun:
-Chicken thigh picata, risotto, broccoli
+eggplant, broccoli, bok choi, rice
 
 Mon:
-Mopo Tofu, Mini Hot Dogs, Rice, Cabbage, Miso soup
+turkey, green bean casserole, sweet potato fries
 
 Tue:
-Black bean coconut soup, French bread, citrus-y salad or slaw
+kimchi, rice, egg, pork belly soup
 
 Wed:
-Parmesan Breaded Chicken Breast, Pesto Pasta, Salad
+mac & cheese
 
 Thu:
-Leftover Mississippi Roast, Polenta, Chopped Spinach
+fish sticks, potatoes, green beans
 
 Fri:
 
@@ -21,9 +21,9 @@ Fri:
 
 ## Shopping List
 
-| **Produce**    | **Meat**       | **Thaw** | **Dairy/Frozen** | **Pantry**     |
-| -------------- | -------------- | -------- | ---------------- | -------------- |
-| Broccoli       | Chicken thighs |          | Milk             | Arborio rice   |
-| Lemon 👀       | Ham hocks      |          |                  | Doubanjiang 👀 |
-| Purple cabbage |                |          |                  | Black beans 👀 |
-| Carrot         |                |          |                  |                |
+| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
+|-------------|----------|----------|------------------|------------|
+| Onion | Turkey |  | Yogurt | Canned green beans |
+| Mini potatoes | Pork belly |  | Cottage cheese (Good or Friendship) | Condensed mushroom soup |
+| Bananas | Turkey pastrami |  | Milk | Coffee |
+|  | Turkey w/ brown edge |  |  |  |

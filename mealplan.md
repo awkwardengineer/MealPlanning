@@ -10,14 +10,58 @@ Roast beef
 
 ----
 
+### Week of March 8, 2026
+
+Sun: eggplant, broccoli, bok choi, rice  
+Mon: turkey, green bean casserole, sweet potato fries  
+Tue: kimchi, rice, egg, pork belly soup  
+Wed: mac & cheese  
+Thu: fish sticks, potatoes, green beans  
+Fri:  
+
+----
+
+### Week of March 1, 2026
+
+Sun: sloppy joes  
+Mon: steel cut oats, mushrooms, pancetta, spinach, sprouts  
+Tue: ---  
+Wed: daddy ramen / oxtail soup base  
+Thu: eggplant, ground beef, chicken, broccoli, white rice, egg drop soup  
+Fri: pizza / dumplings  
+
+----
+
+### Week of February 22, 2026
+
+Sun: Mufongo, pulled pork, leftover legume  
+Mon: Japanese curry, cabbage, white rice, miso soup  
+Tue: Taco Tuesday  
+Wed: Broiled shrimp, garlic + parsley, cabbage salad  
+Thu: Grain bowl, sweet potato, greens, spinach, mushroom  
+Fri:  
+
+----
+
+### Week of February 15, 2026
+
+Sun:  
+Mon: Caper tomato fish, good bread, salad kit  
+Tue: Miso butter pasta, egg, broccoli  
+Wed: Birthday @ Grandma's  
+Thu: Jerk chicken with coconut rice, stewed collards & vegetables  
+Fri: Salmon, polenta, mushrooms, whole spinach, nuts, gruyere  
+
+----
+
 ### Week of February 8, 2026
 
-Sun: Salmon, rice pilaf, green beans  
-Mon: Steel cut oats, bacon, sautéed spinach, roasted mushrooms  
-Tue: Jerk chicken and coconut rice, cole slaw  
-Wed: Egg drop soup, fish sticks, leftover rice, cabbage salad  
+Sun: Superbowl food  
+Mon: Egg drop soup, fish sticks, leftover rice, cabbage salad  
+Tue: Steel cut oats, bacon, sautéed spinach, roasted mushrooms  
+Wed: Salmon, rice pilaf, green beans  
 Thu: Israeli salad, yogurt, tahini, hard boiled eggs, za'atar, anchovies  
-Fri:
+Fri:  
 
 
 ----
@@ -83,7 +127,7 @@ Mon: Tuna Mayo, Rice, Cabbage, Miso Soup
 Tue: Chicken paprikash, egg noodles, steamed broccoli  
 Wed: Family Night  
 Thu: Roux based mac and cheese  
-Fri:  
+Fri:    
 
 ----
 
@@ -94,7 +138,7 @@ Mon: Japanese curry, rice, chicken nuggets, steamed broccoli
 Tue: Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)  
 Wed: Miso butter pasta, tofu, side salad  
 Thu: Meatloaf, potatoes, green beans  
-Fri:  
+Fri:    
 
 ----
 
@@ -105,7 +149,7 @@ Mon: Thai basil chicken, shredded cabbage w/ lime & fish sauce
 Tue: Pupusas, cabbage slaw, sauce  
 Wed: Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap  
 Thu: Local beef stew  
-Fri:  
+Fri:    
 
 ----
 
@@ -127,7 +171,7 @@ Mon: Homemade ramen
 Tue: Oyakadon, rice, miso soup, cabbage salad  
 Wed: Patty melt, chips, fresh fruit  
 Thu: Chicken cacciatore, pasta, chard  
-Fri:  
+Fri:    
 
 ----
 
@@ -138,7 +182,7 @@ Mon: Chicken mole, yellow rice, beans (flex to a taco)
 Tue: Shakshuka, Israeli salad, pita, yogurt  
 Wed: Toastie w/ bacon (and tomato), cole slaw, chips  
 Thu: Japanese curry vegetable w/ leftover rice  
-Fri:  
+Fri:    
 
 ----
 
