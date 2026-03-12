@@ -2,11 +2,18 @@
 
 ### Next
 
-[NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)  
+Guiness Stew and/or Pot Pie  
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
-Roast turkey  
-Roast beef  
+
+### Week of March 15, 2026
+
+Sun: corned beef and cabbage  
+Mon: ratatouille, fresh bread, roast chicken  
+Tue: tacos  
+Wed: pasta w/ marinara, caesar salad  
+Thu: [NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)  
+Fri:  
 
 ----
 
