@@ -6,6 +6,17 @@ Guiness Stew and/or Pot Pie
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
 
+### Week of March 22, 2026
+
+Sun: miso butter pasta, mushrooms, leftover chicken
+Mon: Wendy's / Wegmans
+Tue: butter slow cooker chicken, egg noodles, green beans
+Wed: cabbage, ground beef, fish sauce, white rice, spam, egg
+Thu:
+Fri:
+
+----
+
 ### Week of March 15, 2026
 
 Sun: corned beef and cabbage  

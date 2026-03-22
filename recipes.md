@@ -55,6 +55,10 @@
 
 **Stir Fried Rice**:
 
+## Slow Cooker
+
+**[Garlic Butter Chicken (NYTimes)](https://cooking.nytimes.com/recipes/1026893-slow-cooker-garlic-butter-chicken)**: 1.5-2 lbs boneless chicken thighs, 2 cans cannellini beans, 4 tbsp butter, 8 garlic cloves, ⅓ c parsley, 1 shallot, 1 lemon juiced, salt & pepper. Cook low 4 hrs. Shred chicken, stir in ½ c sour cream. Top with croutons and parsley.
+
 ## Instant Pot
 
 **NYTimes Mississippi Chicken**:
