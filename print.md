@@ -1,19 +1,19 @@
-### Week of April 5, 2026
+### Week of April 12, 2026
 
 Sun:
-ginger chicken, rice, cabbage salad
+beef broth, rice noodles, carrot, cilantro, egg
 
 Mon:
-nabemono, crispy fried chicken (Trader Joe's), leftover rice
+toastie w/ bacon, fruit
 
 Tue:
-miso gochujang pulled pork, pickles, broccoli
+jerk chicken, yellow rice, roast green beans
 
 Wed:
-chili scallion noodles
+pita, babaganoush, eggs, tahini, israeli salad, yogurt
 
 Thu:
-chicken nuggies, brussels, mashed/roast potato
+farro grain bowl, leftover veg
 
 Fri:
 
@@ -23,13 +23,12 @@ Fri:
 
 | **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
 |-------------|----------|----------|------------------|------------|
-| Cilantro | Chicken (whole) |  | Tofu | Hoisin sauce 👀 |
-| Ginger | Pork butt |  | Milk | Asian pickles |
-| Shiitake | Lunch turkey |  | Yogurt | Noodles |
-| Napa or bok choy |  |  |  | Lunch snacks |
-| Baby spinach |  |  |  |  |
-| Scallions |  |  |  |  |
-| Carrots |  |  |  |  |
-| Onion |  |  |  |  |
-| Brussels sprouts |  |  |  |  |
-| Potatoes |  |  |  |  |
+| Carrots | Bacon |  | Eggs | Beef broth / stock |
+| Cilantro | Chicken (jerk) |  | Yogurt | Rice noodles |
+| Green beans |  |  | Cheese (toastie) | Bread |
+| Eggplant |  |  |  | Farro |
+| Cucumber |  |  |  | Pita |
+| Tomato |  |  |  | Tahini |
+| Parsley |  |  |  | Yellow rice / jerk seasonings |
+| Fruit |  |  |  | Garlic |
+| Lemon or lime |  |  |  |  |
