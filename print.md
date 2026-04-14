@@ -1,18 +1,19 @@
-### Week of March 22, 2026
+### Week of April 5, 2026
 
 Sun:
-miso butter pasta, mushrooms, leftover chicken
+ginger chicken, rice, cabbage salad
 
 Mon:
-Wendy's / Wegmans
+nabemono, crispy fried chicken (Trader Joe's), leftover rice
 
 Tue:
-butter slow cooker chicken, egg noodles, green beans
+miso gochujang pulled pork, pickles, broccoli
 
 Wed:
-cabbage, ground beef, fish sauce, white rice, spam, egg
+chili scallion noodles
 
 Thu:
+chicken nuggies, brussels, mashed/roast potato
 
 Fri:
 
@@ -20,6 +21,15 @@ Fri:
 
 ## Shopping List
 
-| **Produce** | **Meat** | **Dairy/Frozen** | **Pantry** |
-|-------------|----------|------------------|------------|
-| Green beans | Chicken thighs | Egg noodles | |
+| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
+|-------------|----------|----------|------------------|------------|
+| Cilantro | Chicken (whole) |  | Tofu | Hoisin sauce 👀 |
+| Ginger | Pork butt |  | Milk | Asian pickles |
+| Shiitake | Lunch turkey |  | Yogurt | Noodles |
+| Napa or bok choy |  |  |  | Lunch snacks |
+| Baby spinach |  |  |  |  |
+| Scallions |  |  |  |  |
+| Carrots |  |  |  |  |
+| Onion |  |  |  |  |
+| Brussels sprouts |  |  |  |  |
+| Potatoes |  |  |  |  |

@@ -10,7 +10,7 @@ Focus on dinner planning only
 
 ## Weekly Schedule Considerations
 
-- **Monday and Tuesday**: We have evening activities - plan accordingly
+- **Monday and Wednesday**: Lacrosse nights — plan lighter, quicker dinners
 - **Thursday**: We leave the house early at 3:30 pm and aren't home until after 6:30 pm
   - Good day for either very fast meals (like simple pasta aglio olio)
   - OR instant pot / pressure cooker meals that can be made ahead of time

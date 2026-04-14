@@ -6,10 +6,32 @@ Guiness Stew and/or Pot Pie
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
 
+### Week of April 5, 2026
+
+Sun: ginger chicken, rice, cabbage salad
+Mon: nabemono, crispy fried chicken (Trader Joe's), leftover rice
+Tue: miso gochujang pulled pork, pickles, broccoli
+Wed: chili scallion noodles
+Thu: chicken nuggies, brussels, mashed/roast potato
+Fri:
+
+----
+
+### Week of March 29, 2026
+
+Sun: stir fried rice
+Mon: pasta aglio olio, broccoli
+Tue: jerk salmon
+Wed: charcuterie, matzoh
+Thu: dinner at moms
+Fri:
+
+----
+
 ### Week of March 22, 2026
 
 Sun: miso butter pasta, mushrooms, leftover chicken
-Mon: Wendy's / Wegmans
+Mon: Wendy's
 Tue: butter slow cooker chicken, egg noodles, green beans
 Wed: cabbage, ground beef, fish sauce, white rice, spam, egg
 Thu:
