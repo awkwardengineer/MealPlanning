@@ -13,9 +13,10 @@ Wed:
 pita, babaganoush, eggs, tahini, israeli salad, yogurt
 
 Thu:
-farro grain bowl, leftover veg
+beef broth w/ leftover beef shank, carrot, bacon, farro bowl, sweet potato, cheese, leftover chicken, veg, strawberries
 
 Fri:
+pain suisse, leftover farro, roast sweet potato (150g) & veg, deli turkey, yogurt, banana, cottage cheese, blueberries, pb, tuna salad w/ mayo, rice, eggs, shredded cabbage
 
 -----
 
@@ -24,11 +25,11 @@ Fri:
 | **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
 |-------------|----------|----------|------------------|------------|
 | Carrots | Bacon |  | Eggs | Beef broth / stock |
-| Cilantro | Chicken (jerk) |  | Yogurt | Rice noodles |
+| Cilantro | Chicken (jerk), deli turkey |  | Yogurt | Rice noodles |
 | Green beans |  |  | Cheese (toastie) | Bread |
 | Eggplant |  |  |  | Farro |
 | Cucumber |  |  |  | Pita |
 | Tomato |  |  |  | Tahini |
-| Parsley |  |  |  | Yellow rice / jerk seasonings |
+| Parsley |  |  |  | Yellow rice / jerk seasonings, peanut butter |
 | Fruit |  |  |  | Garlic |
 | Lemon or lime |  |  |  |  |

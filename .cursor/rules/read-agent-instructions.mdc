@@ -1,0 +1,12 @@
+---
+description: Read root and Calorie Plan agent instructions for meal and calorie work
+alwaysApply: true
+---
+
+# Agent instructions (read both)
+
+For any work in this vault that involves **weekly dinners**, **`mealplan.md`**, **`print.md`**, shopping lists, or meal-prep rhythm, **read the full contents of** repository root **`AGENTS.md`** and follow it before proposing or editing plans.
+
+For any work that involves the **`Calorie Plan/`** folder, daily macro targets, or per-day calorie tables, **read the full contents of** **`Calorie Plan/AGENTS.md`** and follow it before proposing or editing those files.
+
+If a task touches **both** dinner planning and calorie planning, **read both files** at the start of the task. If `Calorie Plan/` is missing locally, still follow root **`AGENTS.md`** and note that the calorie instruction file is absent.

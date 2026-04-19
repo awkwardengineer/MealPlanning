@@ -24,7 +24,7 @@ This repository contains a simple but effective meal planning workflow that help
 
 ### Configuration Files
 
-- **`CLAUDE.md`** - Instructions for AI assistants on how to help with meal planning. Contains:
+- **`AGENTS.md`** - Instructions for AI assistants on how to help with meal planning. Contains:
   - Meal prep strategy preferences
   - Weekly schedule considerations (e.g., Monday/Tuesday evening activities, Thursday early departure)
   - Formatting guidelines for meal descriptions and shopping lists
@@ -34,12 +34,12 @@ This repository contains a simple but effective meal planning workflow that help
 
 ### Excluded Files
 
-- **`Calorie Plan/`** - This folder contains personal calorie tracking files and is excluded from the repository via `.gitignore` for privacy.
+- **`Calorie Plan/`** - This folder contains personal calorie tracking files and is excluded from the repository via `.gitignore` for privacy. When present locally, it should include **`Calorie Plan/AGENTS.md`** for calorie-day rules; Cursor loads it via `.cursor/rules/read-agent-instructions.mdc`.
 
 ## How to Use
 
 1. **Weekly Planning**: Review `mealplan.md` to see recent meals and avoid repetition
-2. **Plan Meals**: Work with an AI assistant (using `CLAUDE.md` as context) to plan the week's dinners
+2. **Plan Meals**: Work with an AI assistant (using `AGENTS.md` and `.cursor/rules/` as context) to plan the week's dinners
 3. **Update Files**: 
    - Add the new week to `mealplan.md`
    - Update `print.md` with the current week's plan and shopping list
