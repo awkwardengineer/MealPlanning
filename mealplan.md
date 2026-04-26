@@ -2,9 +2,19 @@
 
 ### Next
 
-Guiness Stew and/or Pot Pie  
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
+
+### Week of April 26, 2026
+
+Sun: hot pot  
+Mon: pasta aglio olio, roast veggies  
+Tue: chicken pot pie  
+Wed: pancakes from scratch  
+Thu: loco moco, rice  
+Fri:  
+
+----
 
 ### Week of April 19, 2026
 
