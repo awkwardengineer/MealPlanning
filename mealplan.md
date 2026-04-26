@@ -6,6 +6,17 @@ Guiness Stew and/or Pot Pie
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
 
+### Week of April 19, 2026
+
+Sun: hot dish
+Mon: DIY pasta
+Tue: guiness stew
+Wed: Thai curry, miso cabbage, rice
+Thu: plantains w/ tomatoes and eggs, chicken nuggies
+Fri:
+
+----
+
 ### Week of April 12, 2026
 
 Sun: beef broth, rice noodles, carrot, cilantro, egg
