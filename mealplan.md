@@ -5,6 +5,18 @@
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
 
+### Week of May 2, 2026
+
+Sat: loco moco, white rice, cabbage salad  
+Sun:  
+Mon: miso butter pasta  
+Tue: turkey, mash potato, green bean (casserole)  
+Wed: banana, peanut butter, yogurt, granola, rice cake, egg, berries  
+Thu:  
+Fri:  
+
+----
+
 ### Week of April 26, 2026
 
 Sun: hot pot  
