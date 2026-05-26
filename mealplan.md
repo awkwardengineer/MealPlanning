@@ -5,6 +5,42 @@
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
 
+### Week of May 25, 2026
+
+Sun: fried chicken, rice, miso soup, shredded cabbage  
+Mon: hot dogs on grill, boiled plantains, grilled veggies  
+Tue: leftovers  
+Wed: pita plate, babaganoush, houmous, carrots, israeli salad, dates, yogurt  
+Thu: traeger turkey, sweet potato, brussels  
+Fri:  
+Sat:  
+
+----
+
+### Week of May 18, 2026
+
+Sun: BBQ chicken, stewed spinach  
+Mon: poke bowls  
+Tue: tots, nugs, veg on traeger  
+Wed: banana nut yogurt granola bowl  
+Thu:  
+Fri:  
+Sat:  
+
+----
+
+### Week of May 11, 2026
+
+Sun: jerk chicken, plantain, haitian legume, rice  
+Mon: baguette & turkey sandwiches, fruit, pretzels  
+Tue:  
+Wed: PB & J w/ bacon, fruit, crackers  
+Thu:  
+Fri:  
+Sat: leftovers / fridge clear  
+
+----
+
 ### Week of May 2, 2026
 
 Sat: loco moco, white rice, cabbage salad  

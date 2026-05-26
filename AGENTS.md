@@ -17,10 +17,19 @@ Focus on dinner planning only
 
 ## Meal Planning Process
 
-- Use the mealplan.md file to create a running record of meals and dates, so we don't "fall into a rut" and make the same things over and over.
-- **Note**: The mealplan.md file is organized in reverse chronological order, with the newest/most recent weeks at the top.
-- When brainstorming meal ideas, check recent weeks in the meal plan to avoid repeating suggestions that were already offered. Provide fresh, varied suggestions each time.
-- If a recipe doesn't appear in the recipes list, but is added via chat to the meal plan, ask to add it to the recipe's list.
+### Default workflow: brainstorm in chat, write to the plan only when asked
+
+- **Do not edit `mealplan.md` unless the user explicitly asks** (e.g. "add that to the plan", "update the meal plan", "record Monday as …").
+- Default to **brainstorming and proposing ideas in the conversation** — varied options, tradeoffs, and fit with the weekly schedule — then let the user choose what to commit.
+- When the user shares what they actually ate or decided, **confirm before writing** unless they clearly asked you to log it.
+- Creating or extending a week header (e.g. a new "### Week of …" block) is still an edit — only do it when asked, except for logging meals the user explicitly told you to record.
+
+### Using the meal plan file
+
+- Use `mealplan.md` as the running record of **committed** meals and dates, so we don't fall into a rut or repeat the same things.
+- **Note**: `mealplan.md` is organized in reverse chronological order, with the newest/most recent weeks at the top.
+- When brainstorming, read recent weeks in the meal plan to avoid repeating suggestions already offered or recently eaten. Provide fresh, varied ideas in chat.
+- If a recipe is committed to the plan but isn't in the recipes list, ask whether to add it to the recipes list.
 - Use concise, comma-separated format for meal descriptions (e.g. "pasta aglio olio, chicken, salad stuff" rather than "pasta aglio olio with precooked chicken and salad stuff").
 - We typically try to include a protein and a vegetable with each meal.
 - **Avoid quinoa** - we don't like it.
