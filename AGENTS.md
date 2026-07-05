@@ -4,13 +4,14 @@
 
 We like preparing meals that create leftovers early in the week, like rice, baked potatoes, roast veggies, etc, that can become staples and used in other meals during the week.
 
+**Weekend prep rhythm:** Use Saturday/Sunday for batch cooking and shopping. A common pattern is buying fresh fish on **Sunday**, salting and prepping it the same day, then cooking it **Monday** — plan Sunday shopping and Monday dinner around that when suggesting fish meals.
+
 ## Focus
 
 Focus on dinner planning only
 
 ## Weekly Schedule Considerations
 
-- **Monday and Wednesday**: Lacrosse nights — plan lighter, quicker dinners
 - **Thursday**: We leave the house early at 3:30 pm and aren't home until after 6:30 pm
   - Good day for either very fast meals (like simple pasta aglio olio)
   - OR instant pot / pressure cooker meals that can be made ahead of time
@@ -34,29 +35,43 @@ Focus on dinner planning only
 - We typically try to include a protein and a vegetable with each meal.
 - **Avoid quinoa** - we don't like it.
 
-## Print File Format
+## Print file (`print.md`)
+
+### When updating `print.md`
+
+- Only update `print.md` when the user asks (e.g. "create a printout for the week").
+- Copy the **week's meals** from `mealplan.md` into the format below (use **bold** day labels, Sun–Sat).
+- **Do not add shopping list items** — no guessing from the meal plan, no "starter" rows, no inferred produce/meat/thaw/pantry.
+- The shopping list is filled in **one item at a time in chat** with the user; add a row to `print.md` only when the user gives you an item to log.
+- **One item per row, one item per cell** — put each entry in a single column cell on its own row. Do **not** combine multiple items in one cell (no comma-separated lists in the shopping table).
+- **Pack columns to the top** — after adding items, align rows so each column’s entries start on row 1 with no blank cells above an item in that column (shorter columns leave empty cells at the bottom, not the top).
+
+### Format
 
 The print.md file should follow this specific format:
 
 ```
 ### Week of [Date]
 
-Sun:
+**Sun:**
 [meal description]
 
-Mon:
+**Mon:**
 [meal description]
 
-Tue:
+**Tue:**
 [meal description]
 
-Wed:
+**Wed:**
 [meal description]
 
-Thu:
+**Thu:**
 [meal description]
 
-Fri:
+**Fri:**
+[meal description]
+
+**Sat:**
 [meal description]
 
 -----
@@ -65,11 +80,13 @@ Fri:
 
 | **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
 |-------------|----------|----------|------------------|------------|
-| [item] | [item] | [item] | [item] | [item] |
-| [item] | [item] | [item] | [item] | [item] |
 ```
 
-The shopping list should be organized into a markdown table with these columns (only include columns that have items):
+For a new weekly printout, include the **Shopping List** heading and **column headers only** — leave the table body empty until items are added in conversation.
+
+**Day labels** (Sun–Sat) are **bold**; meal text on the following line is plain.
+
+Column meanings (for when the user adds items):
 
 1. **Produce** - fresh vegetables, fruits, herbs
 2. **Meat** - fresh meat, seafood, poultry
@@ -77,4 +94,6 @@ The shopping list should be organized into a markdown table with these columns (
 4. **Dairy/Frozen** - dairy products and frozen items
 5. **Pantry** - dry goods, condiments, spices, etc.
 
-**Note**: The shopping list is built together line by line during the planning conversation, not automatically generated.
+Only include columns that have at least one item.
+
+**Shopping list vs. meal lines:** Comma-separated descriptions apply to **daily meal lines** (Sun–Sat) only, not to the shopping table.

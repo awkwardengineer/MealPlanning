@@ -5,6 +5,28 @@
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
 
+### Week of July 5, 2026
+
+Sun: cheese sauce rice taco  
+Mon: sushi night w/ xander  
+Tue: jaque pepin poulet a la creme  
+Wed: miso nico chicken, rice, cabbage salad  
+Thu: sloppy joes  
+Fri:  
+Sat:  
+
+### Week of June 28, 2026
+
+Sun: hotdogs, buns, potato salad, salad kit, limonada drink  
+Mon: pulled pork, leftover salad stuff  
+Tue: taco tues, beans, avocado, tomato, shredded cheese, lime  
+Wed: miso butter pasta, cabbage salad, seaweed  
+Thu:  
+Fri:  
+Sat:  
+
+----
+
 ### Week of May 25, 2026
 
 Sun: fried chicken, rice, miso soup, shredded cabbage  
