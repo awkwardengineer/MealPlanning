@@ -4,6 +4,15 @@
 
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
+White fish w/ tarragon cream sauce, rice pilaf, and asparagus  
+Ravioli w/ Rao's  
+Arroz con pollo (jaque pepin)  
+Thai curry  
+Japanese curry  
+Bibimbap  
+Shake and bake  
+Shrimp (from freezer) and garlic  
+Chicken tikka  
 
 ### Week of July 5, 2026
 
