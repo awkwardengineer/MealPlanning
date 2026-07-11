@@ -41,10 +41,9 @@ Focus on dinner planning only
 
 - Only update `print.md` when the user asks (e.g. "create a printout for the week").
 - Copy the **week's meals** from `mealplan.md` into the format below (use **bold** day labels, Sun–Sat).
-- **Do not add shopping list items** — no guessing from the meal plan, no "starter" rows, no inferred produce/meat/thaw/pantry.
-- The shopping list is filled in **one item at a time in chat** with the user; add a row to `print.md` only when the user gives you an item to log.
-- **One item per row, one item per cell** — put each entry in a single column cell on its own row. Do **not** combine multiple items in one cell (no comma-separated lists in the shopping table).
-- **Pack columns to the top** — after adding items, align rows so each column’s entries start on row 1 with no blank cells above an item in that column (shorter columns leave empty cells at the bottom, not the top).
+- **Do not add shopping list items** — no guessing from the meal plan, no starter items, no inferred produce/meat/thaw/pantry.
+- The shopping list is filled in **one item at a time in chat** with the user; add a line to `print.md` only when the user gives you an item to log.
+- **One item per line** — put each entry on its own line under the correct category. Do **not** combine multiple items on one line (no comma-separated lists in the shopping list).
 
 ### Format
 
@@ -78,15 +77,20 @@ The print.md file should follow this specific format:
 
 ## Shopping List
 
-| **Produce** | **Meat** | **Thaw** | **Dairy/Frozen** | **Pantry** |
-|-------------|----------|----------|------------------|------------|
+**Produce**
+green beans
+potato
+
+**Meat**
+Chicken
+Beef
 ```
 
-For a new weekly printout, include the **Shopping List** heading and **column headers only** — leave the table body empty until items are added in conversation.
+For a new weekly printout, include the **Shopping List** heading only — leave category sections empty until items are added in conversation.
 
 **Day labels** (Sun–Sat) are **bold**; meal text on the following line is plain.
 
-Column meanings (for when the user adds items):
+Category meanings (for when the user adds items):
 
 1. **Produce** - fresh vegetables, fruits, herbs
 2. **Meat** - fresh meat, seafood, poultry
@@ -94,6 +98,6 @@ Column meanings (for when the user adds items):
 4. **Dairy/Frozen** - dairy products and frozen items
 5. **Pantry** - dry goods, condiments, spices, etc.
 
-Only include columns that have at least one item.
+Only include category sections that have at least one item.
 
-**Shopping list vs. meal lines:** Comma-separated descriptions apply to **daily meal lines** (Sun–Sat) only, not to the shopping table.
+**Shopping list vs. meal lines:** Comma-separated descriptions apply to **daily meal lines** (Sun–Sat) only, not to the shopping list.
