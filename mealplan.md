@@ -4,15 +4,25 @@
 
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
-White fish w/ tarragon cream sauce, rice pilaf, and asparagus  
 Ravioli w/ Rao's  
 Arroz con pollo (jaque pepin)  
 Thai curry  
 Japanese curry  
 Bibimbap  
-Shake and bake  
-Shrimp (from freezer) and garlic  
-Chicken tikka  
+Chicken tikka
+Swedish Meatballs w/ Noodles
+Morrocan meatballs w/ cous cous
+  
+
+### Week of July 12, 2026
+
+Sun: garlic shrimpies, yellow rice, zucchini  
+Mon: fish w/ tarragon cream, rice pilaf, green beans  
+Tue: shake and bake, leftovers, veg  
+Wed: mapo tofu, white rice, seaweed, korean side dishes  
+Thu: sloppy joes, tots, frozen mixed veg  
+Fri:  
+Sat:  
 
 ### Week of July 5, 2026
 
