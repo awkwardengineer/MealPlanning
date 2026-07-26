@@ -6,13 +6,53 @@
 Roast chicken  
 Ravioli w/ Rao's  
 Arroz con pollo (jaque pepin)  
-Thai curry  
 Japanese curry  
 Bibimbap  
 Chicken tikka
 Swedish Meatballs w/ Noodles
 Morrocan meatballs w/ cous cous
+[Spicy and Creamy Cashew Chicken Salad](https://cooking.nytimes.com/recipes/781710532-spicy-and-creamy-cashew-chicken-salad)
+[Seared Sweet Potatoes with Chermoula](https://cooking.nytimes.com/recipes/1027618-seared-sweet-potatoes-with-chermoula)
   
+
+#### Ingredients to use
+
+Odd/specific items in the fridge to work into upcoming meals:
+
+- Pepperoncini
+- Chipotle
+- Anchovy paste
+- Japanese BBQ sauce
+- Olives
+- Tomato paste
+- Capers
+- Dashi broth
+- Miso
+- Gochujang
+- Horseradish
+- Thai curry paste
+
+### Week of July 26, 2026
+
+Sun: BBQ, potato salad, asparagus or broccoli  
+Mon: thai green curry, rice, egg  
+Tue: boiled sweet potato, roast chickpeas, egg  
+Wed: nuggets, fish sticks, tots, white rice, miso soup  
+Thu: beach on the go  
+
+----
+
+### Week of July 19, 2026
+
+Sun: mac and cheese, dry fried green beans  
+Mon: mapo tofu, leftover green beans, rice  
+Tue: fire chicken, legume, plantain  
+Wed: carrot w/ cumin & tahini, egg, pita, yogurt, israeli salad, sautéed cabbage  
+Thu: thai curry, rice  
+Fri:  
+Sat:  
+
+----
 
 ### Week of July 12, 2026
 
@@ -24,6 +64,8 @@ Thu: sloppy joes, tots, frozen mixed veg
 Fri:  
 Sat:  
 
+----
+
 ### Week of July 5, 2026
 
 Sun: cheese sauce rice taco  
@@ -33,6 +75,8 @@ Wed: miso nico chicken, rice, cabbage salad
 Thu: sloppy joes  
 Fri:  
 Sat:  
+
+----
 
 ### Week of June 28, 2026
 

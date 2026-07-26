@@ -18,10 +18,11 @@ Focus on dinner planning only
 
 ## Meal Planning Process
 
-### Default workflow: brainstorm in chat, write to the plan only when asked
+### Default workflow: act only when explicitly asked
 
+- **Do not proactively offer meal ideas or offer to do meal planning.** Only brainstorm, suggest recipes, or propose meals when the user specifically asks. Do not end messages with unsolicited "want me to suggest…?" offers. (Sam's explicit preference, Jul 16 2026.)
 - **Do not edit `mealplan.md` unless the user explicitly asks** (e.g. "add that to the plan", "update the meal plan", "record Monday as …").
-- Default to **brainstorming and proposing ideas in the conversation** — varied options, tradeoffs, and fit with the weekly schedule — then let the user choose what to commit.
+- When the user *does* ask for ideas, brainstorm in the conversation — varied options, tradeoffs, and fit with the weekly schedule — then let the user choose what to commit.
 - When the user shares what they actually ate or decided, **confirm before writing** unless they clearly asked you to log it.
 - Creating or extending a week header (e.g. a new "### Week of …" block) is still an edit — only do it when asked, except for logging meals the user explicitly told you to record.
 
