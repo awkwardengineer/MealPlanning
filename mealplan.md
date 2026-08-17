@@ -22,7 +22,6 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Pepperoncini
 - Chipotle
 - Anchovy paste
-- Japanese BBQ sauce
 - Olives
 - Tomato paste
 - Capers
@@ -31,6 +30,24 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Gochujang
 - Horseradish
 - Thai curry paste
+
+### Week of August 16, 2026
+
+Sun: corn soup, salmon patties, leftover veg  
+Mon: braised beef shanks, little potatoes, leftover veg  
+Tue: arroz con pollo  
+Wed: chicken patties, curry, rice  
+Thu: lamb on smoker, leftovers, green veg  
+Fri:  
+Sat:  
+
+----
+
+### Week of August 9, 2026
+
+Catskills vacation  
+
+----
 
 ### Week of July 26, 2026
 
