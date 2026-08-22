@@ -31,6 +31,18 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Horseradish
 - Thai curry paste
 
+### Week of August 23, 2026
+
+Sun: hot dog, stir fry potatoes, salad kit  
+Mon: shake n bake, broccoli, leftover sides?  
+Tue: arroz con pollo  
+Wed: lamb on smoker?  
+Thu: stir fry cabbage, spam, egg, rice  
+Fri:  
+Sat:  
+
+----
+
 ### Week of August 16, 2026
 
 Sun: corn soup, salmon patties, leftover veg  
