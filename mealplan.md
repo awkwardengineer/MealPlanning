@@ -4,15 +4,12 @@
 
 [Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
 Roast chicken  
-Ravioli w/ Rao's  
-Arroz con pollo (jaque pepin)  
-Japanese curry  
 Bibimbap  
 Chicken tikka
 Swedish Meatballs w/ Noodles
 Morrocan meatballs w/ cous cous
 [Spicy and Creamy Cashew Chicken Salad](https://cooking.nytimes.com/recipes/781710532-spicy-and-creamy-cashew-chicken-salad)
-[Seared Sweet Potatoes with Chermoula](https://cooking.nytimes.com/recipes/1027618-seared-sweet-potatoes-with-chermoula)
+Korean army stew
   
 
 #### Ingredients to use
@@ -30,6 +27,30 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Gochujang
 - Horseradish
 - Thai curry paste
+
+### Week of September 6, 2026
+
+Sun: shake n' bake, salad kit  
+Mon: fishy, rice pilaf, broccoli  
+Tue: ginger chicken, ginger rice, stir fried cabbage  
+Wed: mississippi chicken, polenta  
+Thu: garlic shrimpies, spanish rice n' beans  
+Fri:  
+Sat:  
+
+----
+
+### Week of August 30, 2026
+
+Sun: lamb  
+Mon: pasta w/ raos  
+Tue: new orleans rice  
+Wed: mississippi roast  
+Thu: toasties  
+Fri:  
+Sat:  
+
+----
 
 ### Week of August 23, 2026
 
