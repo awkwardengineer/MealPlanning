@@ -2,14 +2,6 @@
 
 ### Next
 
-[Pumpkin Peanut Noodles](https://www.foodnetwork.com/recipes/rachael-ray/pumpkin-peanut-curry-noodles-with-five-spice-seared-scallops-and-shrimp-recipe-1946278)  
-Roast chicken  
-Bibimbap  
-Chicken tikka
-Swedish Meatballs w/ Noodles
-Morrocan meatballs w/ cous cous
-[Spicy and Creamy Cashew Chicken Salad](https://cooking.nytimes.com/recipes/781710532-spicy-and-creamy-cashew-chicken-salad)
-Korean army stew
   
 
 #### Ingredients to use
@@ -26,7 +18,30 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Miso
 - Gochujang
 - Horseradish
-- Thai curry paste
+
+### Week of September 20, 2026
+
+Sun: brisket for breaking the fast, duck fat potatoes, veg  
+Mon: ground beef curry w/ rice, shredded cabbage, miso soup  
+Tue: borscht (from freezer), farro, sautéed cabbage  
+Wed: pasta puttanesca, salad kit  
+Thu: mapo tofu, white rice, cabbage, chicken nuggies  
+Fri:  
+Sat:  
+
+----
+
+### Week of September 13, 2026
+
+Sun: egg drop soup, dumplings, shredded cabbage  
+Mon: salmon, broccoli, rice pilaf  
+Tue: mississippi tacos, tomato, avocado, cheese, cilantro  
+Wed: thai ground chicken w/ peppers + cilantro, rice  
+Thu: cheese burger soup, salad kit, brazilian french bread  
+Fri:  
+Sat:  
+
+----
 
 ### Week of September 6, 2026
 
@@ -201,54 +216,54 @@ Fri:
 
 ### Week of April 19, 2026
 
-Sun: hot dish
-Mon: DIY pasta
-Tue: guiness stew
-Wed: Thai curry, miso cabbage, rice
-Thu: plantains w/ tomatoes and eggs, chicken nuggies
+Sun: hot dish  
+Mon: DIY pasta  
+Tue: guiness stew  
+Wed: Thai curry, miso cabbage, rice  
+Thu: plantains w/ tomatoes and eggs, chicken nuggies  
 Fri:
 
 ----
 
 ### Week of April 12, 2026
 
-Sun: beef broth, rice noodles, carrot, cilantro, egg
-Mon: toastie w/ bacon, fruit
-Tue: jerk chicken, yellow rice, roast green beans
-Wed: pita, babaganoush, eggs, tahini, israeli salad, yogurt
-Thu: beef broth w/ leftover beef shank, carrot, bacon, farro bowl, sweet potato, cheese, leftover chicken, veg, strawberries
-Fri: pain suisse, leftover farro, roast sweet potato (150g) & veg, deli turkey, yogurt, banana, cottage cheese, blueberries, pb, tuna salad w/ mayo, rice, eggs, shredded cabbage
+Sun: beef broth, rice noodles, carrot, cilantro, egg  
+Mon: toastie w/ bacon, fruit  
+Tue: jerk chicken, yellow rice, roast green beans  
+Wed: pita, babaganoush, eggs, tahini, israeli salad, yogurt  
+Thu: beef broth w/ leftover beef shank, carrot, bacon, farro bowl, sweet potato, cheese, leftover chicken, veg, strawberries  
+Fri: pain suisse, leftover farro, roast sweet potato (150g) & veg, deli turkey, yogurt, banana, cottage cheese, blueberries, pb, tuna salad w/ mayo, rice, eggs, shredded cabbage  
 
 ----
 
 ### Week of April 5, 2026
 
-Sun: ginger chicken, rice, cabbage salad
-Mon: nabemono, crispy fried chicken (Trader Joe's), leftover rice
-Tue: miso gochujang pulled pork, pickles, broccoli
-Wed: chili scallion noodles
-Thu: chicken nuggies, brussels, mashed/roast potato
+Sun: ginger chicken, rice, cabbage salad  
+Mon: nabemono, crispy fried chicken (Trader Joe's), leftover rice  
+Tue: miso gochujang pulled pork, pickles, broccoli  
+Wed: chili scallion noodles  
+Thu: chicken nuggies, brussels, mashed/roast potato  
 Fri:
 
 ----
 
 ### Week of March 29, 2026
 
-Sun: stir fried rice
-Mon: pasta aglio olio, broccoli
-Tue: jerk salmon
-Wed: charcuterie, matzoh
-Thu: dinner at moms
+Sun: stir fried rice  
+Mon: pasta aglio olio, broccoli  
+Tue: jerk salmon  
+Wed: charcuterie, matzoh  
+Thu: dinner at moms  
 Fri:
 
 ----
 
 ### Week of March 22, 2026
 
-Sun: miso butter pasta, mushrooms, leftover chicken
-Mon: Wendy's
-Tue: butter slow cooker chicken, egg noodles, green beans
-Wed: cabbage, ground beef, fish sauce, white rice, spam, egg
+Sun: miso butter pasta, mushrooms, leftover chicken  
+Mon: Wendy's  
+Tue: butter slow cooker chicken, egg noodles, green beans  
+Wed: cabbage, ground beef, fish sauce, white rice, spam, egg  
 Thu:
 Fri:
 
