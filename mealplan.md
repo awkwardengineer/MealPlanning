@@ -1,8 +1,35 @@
 # Meal Plan
 
+### Freezer
+
+- pork chop
+- tenderloin steak
+- ribeye
+- chicken
+- ground chicken - 1 lb and smaller 1/4 lb blocks
+- ground pork - 1/8 lb blocks
+- ginger and garlic pork sausage
+- challah
+- cheese blintzes
+- Costco lightly breaded chicken breast chunks
+- Trader Joe's chicken mole
+- Trader Joe's masala
+- Kevin's chimichurri rice
+- hipster vegetables
+- cauliflower
+- cauliflower stir-fry
+- [meal] cheeseburger soup
+- [meal] hamburger curry
+- [meal] beef stew
+
 ### Next
 
-  
+- shakshuka
+- curry pumpkin soup
+- beets
+- chicken tikka / skewers
+- bim bim bap
+- Rasta pasta
 
 #### Ingredients to use
 
@@ -21,7 +48,7 @@ Odd/specific items in the fridge to work into upcoming meals:
 
 ### Week of September 20, 2026
 
-Sun: brisket for breaking the fast, duck fat potatoes, veg  
+Sun: steak, roast chicken legs, duck fat potatoes, creamed spinach  
 Mon: ground beef curry w/ rice, shredded cabbage, miso soup  
 Tue: borscht (from freezer), farro, sautéed cabbage  
 Wed: pasta puttanesca, salad kit  
@@ -29,7 +56,9 @@ Thu: mapo tofu, white rice, cabbage, chicken nuggies
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of September 13, 2026
 
@@ -41,7 +70,9 @@ Thu: cheese burger soup, salad kit, brazilian french bread
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of September 6, 2026
 
@@ -53,7 +84,9 @@ Thu: garlic shrimpies, spanish rice n' beans
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of August 30, 2026
 
@@ -65,7 +98,9 @@ Thu: toasties
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of August 23, 2026
 
@@ -77,7 +112,9 @@ Thu: stir fry cabbage, spam, egg, rice
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of August 16, 2026
 
@@ -89,13 +126,17 @@ Thu: lamb on smoker, leftovers, green veg
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of August 9, 2026
 
 Catskills vacation  
 
-----
+---
+
+
 
 ### Week of July 26, 2026
 
@@ -105,7 +146,9 @@ Tue: boiled sweet potato, roast chickpeas, egg
 Wed: nuggets, fish sticks, tots, white rice, miso soup  
 Thu: beach on the go  
 
-----
+---
+
+
 
 ### Week of July 19, 2026
 
@@ -117,7 +160,9 @@ Thu: thai curry, rice
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of July 12, 2026
 
@@ -129,7 +174,9 @@ Thu: sloppy joes, tots, frozen mixed veg
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of July 5, 2026
 
@@ -141,7 +188,9 @@ Thu: sloppy joes
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of June 28, 2026
 
@@ -153,7 +202,9 @@ Thu:
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of May 25, 2026
 
@@ -165,7 +216,9 @@ Thu: traeger turkey, sweet potato, brussels
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of May 18, 2026
 
@@ -177,7 +230,9 @@ Thu:
 Fri:  
 Sat:  
 
-----
+---
+
+
 
 ### Week of May 11, 2026
 
@@ -189,7 +244,9 @@ Thu:
 Fri:  
 Sat: leftovers / fridge clear  
 
-----
+---
+
+
 
 ### Week of May 2, 2026
 
@@ -201,7 +258,9 @@ Wed: banana, peanut butter, yogurt, granola, rice cake, egg, berries
 Thu:  
 Fri:  
 
-----
+---
+
+
 
 ### Week of April 26, 2026
 
@@ -212,7 +271,9 @@ Wed: pancakes from scratch
 Thu: loco moco, rice  
 Fri:  
 
-----
+---
+
+
 
 ### Week of April 19, 2026
 
@@ -223,7 +284,9 @@ Wed: Thai curry, miso cabbage, rice
 Thu: plantains w/ tomatoes and eggs, chicken nuggies  
 Fri:
 
-----
+---
+
+
 
 ### Week of April 12, 2026
 
@@ -234,7 +297,9 @@ Wed: pita, babaganoush, eggs, tahini, israeli salad, yogurt
 Thu: beef broth w/ leftover beef shank, carrot, bacon, farro bowl, sweet potato, cheese, leftover chicken, veg, strawberries  
 Fri: pain suisse, leftover farro, roast sweet potato (150g) & veg, deli turkey, yogurt, banana, cottage cheese, blueberries, pb, tuna salad w/ mayo, rice, eggs, shredded cabbage  
 
-----
+---
+
+
 
 ### Week of April 5, 2026
 
@@ -245,7 +310,9 @@ Wed: chili scallion noodles
 Thu: chicken nuggies, brussels, mashed/roast potato  
 Fri:
 
-----
+---
+
+
 
 ### Week of March 29, 2026
 
@@ -256,7 +323,9 @@ Wed: charcuterie, matzoh
 Thu: dinner at moms  
 Fri:
 
-----
+---
+
+
 
 ### Week of March 22, 2026
 
@@ -267,7 +336,9 @@ Wed: cabbage, ground beef, fish sauce, white rice, spam, egg
 Thu:
 Fri:
 
-----
+---
+
+
 
 ### Week of March 15, 2026
 
@@ -278,7 +349,9 @@ Wed: pasta w/ marinara, caesar salad
 Thu: [NYTimes One Pot Chicken/Coconut/Tomato/Ginger](https://cooking.nytimes.com/recipes/1020864-one-pot-braised-chicken-with-coconut-milk-tomato-and-ginger)  
 Fri:  
 
-----
+---
+
+
 
 ### Week of March 8, 2026
 
@@ -289,7 +362,9 @@ Wed: mac & cheese
 Thu: fish sticks, potatoes, green beans  
 Fri:  
 
-----
+---
+
+
 
 ### Week of March 1, 2026
 
@@ -300,7 +375,9 @@ Wed: daddy ramen / oxtail soup base
 Thu: eggplant, ground beef, chicken, broccoli, white rice, egg drop soup  
 Fri: pizza / dumplings  
 
-----
+---
+
+
 
 ### Week of February 22, 2026
 
@@ -311,7 +388,9 @@ Wed: Broiled shrimp, garlic + parsley, cabbage salad
 Thu: Grain bowl, sweet potato, greens, spinach, mushroom  
 Fri:  
 
-----
+---
+
+
 
 ### Week of February 15, 2026
 
@@ -322,7 +401,9 @@ Wed: Birthday @ Grandma's
 Thu: Jerk chicken with coconut rice, stewed collards & vegetables  
 Fri: Salmon, polenta, mushrooms, whole spinach, nuts, gruyere  
 
-----
+---
+
+
 
 ### Week of February 8, 2026
 
@@ -333,8 +414,9 @@ Wed: Salmon, rice pilaf, green beans
 Thu: Israeli salad, yogurt, tahini, hard boiled eggs, za'atar, anchovies  
 Fri:  
 
+---
 
-----
+
 
 ### Week of February 1, 2026
 
@@ -345,7 +427,9 @@ Wed: Chicken Fettucine Alfredo
 Thu: Japanese Curry  
 Fri:  
 
-----
+---
+
+
 
 ### Week of January 25, 2026
 
@@ -356,7 +440,9 @@ Wed: Parmesan Breaded Chicken Breast, Pesto Pasta, Salad
 Thu: Leftover Mississippi Roast, Polenta, Chopped Spinach  
 Fri:  
 
-----
+---
+
+
 
 ### Week of January 18, 2026
 
@@ -366,7 +452,9 @@ Wed: Tuna Noodle Casserole, Salad
 Thu: Fish Sticks, Rice, Cabbage Salad, Tots, Miso  
 Fri: Leftovers?  
 
-----
+---
+
+
 
 ### Week of January 11, 2026
 
@@ -379,7 +467,9 @@ Wed: Chicken alfredo, side salad
 Thu: Sopa de Mani, rice, plantains  
 Fri: Pizza / takeout.  
 
-----
+---
+
+
 
 ### Week of January 4, 2026
 
@@ -388,7 +478,9 @@ Fri: BBQ pork, mufongo, collard greens
 Sat: Korean tacos (gochujang pork, cilantro, lime, avocado, cole slaw, sriracha sour cream), Hmart pickles  
 Sun: Cubanos (ham, pulled pork, mustard, cheese, pickles, bread), Cuban beans, tostados  
 
-----
+---
+
+
 
 ### Week of December 14, 2025
 
@@ -399,7 +491,9 @@ Wed: Family Night
 Thu: Roux based mac and cheese  
 Fri:    
 
-----
+---
+
+
 
 ### Week of December 7, 2025
 
@@ -410,7 +504,9 @@ Wed: Miso butter pasta, tofu, side salad
 Thu: Meatloaf, potatoes, green beans  
 Fri:    
 
-----
+---
+
+
 
 ### Week of November 30, 2025
 
@@ -421,7 +517,9 @@ Wed: Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated 
 Thu: Local beef stew  
 Fri:    
 
-----
+---
+
+
 
 ### Week of November 23, 2025
 
@@ -432,7 +530,9 @@ Wed: Pupusas, cabbage slaw
 Thu: Thanksgiving turkey  
 Fri: Leftovers  
 
-----
+---
+
+
 
 ### Week of November 16, 2025
 
@@ -443,7 +543,9 @@ Wed: Patty melt, chips, fresh fruit
 Thu: Chicken cacciatore, pasta, chard  
 Fri:    
 
-----
+---
+
+
 
 ### Week of November 9, 2025
 
@@ -454,7 +556,9 @@ Wed: Toastie w/ bacon (and tomato), cole slaw, chips
 Thu: Japanese curry vegetable w/ leftover rice  
 Fri:    
 
-----
+---
+
+
 
 ### Week of November 2, 2025
 
@@ -465,7 +569,9 @@ Wed: Mac and cheese, steamed broccoli w/ garlic
 Thu: Beef and broccoli, egg drop soup, Sichuan green beans  
 Fri: Pizza, dumplings, etc.  
 
-----
+---
+
+
 
 ### Week of October 26, 2025
 
@@ -476,7 +582,9 @@ Wed: Miso butter and mushroom pasta, tofu, smashed cucumber salad
 Thu: Mississippi roast, ferro, salad kit  
 Fri: Pizza, dumplings, etc.  
 
-----
+---
+
+
 
 ### Week of October 19, 2025
 
@@ -487,7 +595,9 @@ Wed: Sticky coconut chicken, and rice
 Thu: Oatmeal (w/ bacon, blue cheese, nuts, eggs), super smoothie  
 Fri: Pizza, dumplings, etc.  
 
-----
+---
+
+
 
 ### Week of October 12, 2025
 
@@ -498,7 +608,9 @@ Wed: Lemon basil pasta, sausage
 Thu: Ferro grain bowl  
 Fri: Pizza, dumplings, etc.  
 
-----
+---
+
+
 
 ### Week of October 5, 2025
 
@@ -509,7 +621,9 @@ Wed: -- Dinner at Jocelyn's --
 Thu: Instant Pot Black Bean Stew, pao frances  
 Fri: Pizza, dumplings, etc.  
 
-----
+---
+
+
 
 ### Week of September 28, 2025
 
@@ -520,7 +634,9 @@ Wed: Brisket, egg noodles, asparagus
 Thu: Blintzes and latkes  
 Fri: Pizza, dumplings, etc.  
 
-----
+---
+
+
 
 ### Week of September 21, 2025
 
@@ -530,4 +646,5 @@ Wed: Pork and Cabbage, white rice
 Thu: Miso butter pasta, chicken, salad stuff  
 Fri: Pizza  
 
-----
+---
+
