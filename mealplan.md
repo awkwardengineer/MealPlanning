@@ -24,12 +24,14 @@
 
 ### Next
 
-- shakshuka
 - curry pumpkin soup
-- beets
+- ~~beets~~
 - chicken tikka / skewers
 - bim bim bap
 - Rasta pasta
+- hawaiian pork over rice
+- inside out egg roll
+- salmon patties, ferro, roast veggies
 
 #### Ingredients to use
 
@@ -45,6 +47,18 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Miso
 - Gochujang
 - Horseradish
+
+### Week of September 27, 2026
+
+Sun: bolognese  
+Mon: crunchy tofu grain/salad bowl w/beets 
+Tue: halal cart chicken, yellow rice, salad  
+Wed: dumplings  
+Thu: shakshuka, pita, cucumber tomato, yogurt  
+Fri:  
+Sat:  
+
+---
 
 ### Week of September 20, 2026
 
