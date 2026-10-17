@@ -48,12 +48,24 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Gochujang
 - Horseradish
 
+### Week of October 25, 2026
+
+Sun:
+Mon: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)
+Tue:
+Wed:
+Thu:
+Fri:
+Sat:
+
+---
+
 ### Week of October 18, 2026
 
 Sun: chicken tikka, naan, saag
-Mon: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)
-Tue: quack, nugs, green beans, ferro
-Wed: beef and broccoli, egg drop soup, white rice
+Mon: pork tenderloin, mashed plantain, beans
+Tue: beef and broccoli, egg drop soup, white rice
+Wed: quack, nugs, green beans, ferro
 Thu: miso butter pasta, crispy tofu, salad, sardines
 Fri:
 Sat:
