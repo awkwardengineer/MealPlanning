@@ -6,9 +6,9 @@
 - tenderloin steak
 - ribeye
 - chicken
-- ground chicken - 1 lb and smaller 1/4 lb blocks
+- ~~ground chicken - 1 lb~~ and smaller 1/4 lb blocks
 - ground pork - 1/8 lb blocks
-- ginger and garlic pork sausage
+- ~~ginger and garlic pork sausage~~
 - challah
 - cheese blintzes
 - Costco lightly breaded chicken breast chunks
@@ -18,20 +18,20 @@
 - hipster vegetables
 - cauliflower
 - cauliflower stir-fry
+- beets
 - [meal] cheeseburger soup
 - [meal] hamburger curry
 - [meal] beef stew
+- [meal] pumpkin soup
 
 ### Next
 
-- curry pumpkin soup
-- ~~beets~~
+- ~~beets, miso niko chicken~~
 - chicken tikka / skewers
 - bim bim bap
 - Rasta pasta
 - hawaiian pork over rice
-- inside out egg roll
-- salmon patties, ferro, roast veggies
+- pork tenderloin w/ mash plantains
 
 #### Ingredients to use
 
@@ -47,6 +47,42 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Miso
 - Gochujang
 - Horseradish
+
+### Week of October 18, 2026
+
+Sun: chicken tikka, naan, saag
+Mon: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)
+Tue: quack, nugs, green beans, ferro
+Wed: beef and broccoli, egg drop soup, white rice
+Thu: miso butter pasta, crispy tofu, salad, sardines
+Fri:
+Sat:
+
+---
+
+### Week of October 11, 2026
+
+Sun: orzo, white bean, kale
+Mon: miso niko chicken, white rice, broccoli
+Tue: honey lime chicken
+Wed: chili, baked potato
+Thu: Trader Joe's freezer food
+Fri:
+Sat:
+
+---
+
+### Week of October 4, 2026
+
+Sun: salmon patty, ferro, green bean casserole  
+Mon: pork w/ peas, lemon miso cabbage, potato salad  
+Tue: curry pumpkin soup, egg salad sammich, kale avocado salad  
+Wed: inside out egg roll, egg drop soup, white rice  
+Thu: instant pot colombian chicken, beans, plantains  
+Fri:  
+Sat:  
+
+---
 
 ### Week of September 27, 2026
 
