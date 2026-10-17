@@ -11,6 +11,10 @@
 
 **Miso Niko Pork**: Mix miso and corn starch with 1 cup chicken stock for 1 lb ground meat.
 
+**Miso Niko Chicken**:
+
+**Bibimbap**:
+
 **Thai Basil Chicken/Pork**: For 1 lb meat, use 1 tbsp fish sauce, 1/2 tbsp oyster sauce, 1/2 tbsp soy sauce. Stir fry meat and add sauce, then add holy basil at the end.
 
 **Loco Moco**:
@@ -18,6 +22,10 @@
 **Oyakadon**: Combine dashi (or chicken stock), soy sauce, mirin, sake, sugar. Simmer onion slices until translucent (5-6 min), add bite-sized chicken thighs and cook through. Pour beaten eggs over, cover until just set (slightly runny). Serve over rice. Optional: green onions, mitsuba, shichimi.
 
 **Pork and Peas**: Marinate 2lbs pork butt/shoulder, 1/4 cup soy sauce, 3 tbsp cider vinegar, bay leaves >1 hr. Cook 1/2 yellow onion and garlic, add pork. Sear, then cover and simmer 40min. Add 3 tbsp mushroom soup, 3 tbsp tomato paste for 3min. Add peas, then add cinnamon off heat.
+
+**Japanese Curry**:
+
+**Thai Curry**:
 
 ## Starches / Carbs
 
@@ -39,6 +47,10 @@
 
 **Mufongo**:
 
+## Veg
+
+**Saag**:
+
 ## Wok
 
 **Beef, Chicken + {insert}**: Lighter sauce: stock + soy. Darker sauce: oyster + soy. Choice of {broccoli, snap peas, snow peas}.
@@ -54,6 +66,30 @@
 **Green Beans w/ Pork**:
 
 **Stir Fried Rice**:
+
+## Steamer
+
+**Ginger Chicken**:
+
+**Hardboiled Eggs**: Steam 12 min 30 sec, plunge into ice water.
+
+## Oven
+
+**Green Bean Casserole**:
+
+**Arroz con Pollo**:
+
+## Grill
+
+**Chicken Tikka**:
+
+**Jerk Chicken**:
+
+**Pork Tenderloin**:
+
+## Skillet
+
+**Shakshuka**:
 
 ## Slow Cooker
 
@@ -81,6 +117,10 @@
 ## Seafood
 
 **Shrimp Etouffe**:
+
+**Salmon Patties**:
+
+**Garlic Shrimp**:
 
 ## Pasta
 
