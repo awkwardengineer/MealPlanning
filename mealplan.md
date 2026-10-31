@@ -52,49 +52,49 @@ Odd/specific items in the fridge to work into upcoming meals:
 
 ### Week of November 1, 2026
 
-Sun: hot pot
-Mon: tuna mayo rice, cabbage salad
-Tue: tikka / saag mix
-Wed: chili, Brazilian French bread, salad kit
-Thu:
-Fri:
-Sat: homemade mac and cheese
+Sun: hot pot  
+Mon: tuna mayo rice, cabbage salad  
+Tue: tikka / saag mix  
+Wed: chili, Brazilian French bread, salad kit  
+Thu:  
+Fri:  
+Sat: homemade mac and cheese  
 
 ---
 
 ### Week of October 25, 2026
 
-Sun: miso butter pasta, crispy tofu, cabbage, sardines
-Mon: ribeye, duck fat potatoes, broccoli, roast eggplant
-Tue: bim bim bap
-Wed: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)
-Thu: cheeseburger soup, salad kit, brazilian french bread or cheesy bread
-Fri:
-Sat:
+Sun: miso butter pasta, crispy tofu, cabbage, sardines  
+Mon: ribeye, duck fat potatoes, broccoli, roast eggplant  
+Tue: bim bim bap  
+Wed: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)  
+Thu: cheeseburger soup, salad kit, brazilian french bread or cheesy bread  
+Fri:  
+Sat:  
 
 ---
 
 ### Week of October 18, 2026
 
-Sun: chicken tikka, naan, saag
-Mon: pork tenderloin, mashed plantain, beans
-Tue: beef and broccoli, egg drop soup, white rice
-Wed: quack, nugs, green beans, ferro
-Thu: ~~miso butter pasta, crispy tofu, salad, sardines~~ (bumped to Sun Oct 25)
-Fri:
-Sat:
+Sun: chicken tikka, naan, saag  
+Mon: pork tenderloin, mashed plantain, beans  
+Tue: beef and broccoli, egg drop soup, white rice  
+Wed: quack, nugs, green beans, ferro  
+Thu: ~~miso butter pasta, crispy tofu, salad, sardines~~ (bumped to Sun Oct 25)  
+Fri:  
+Sat:  
 
 ---
 
 ### Week of October 11, 2026
 
-Sun: orzo, white bean, kale
-Mon: miso niko chicken, white rice, broccoli
-Tue: honey lime chicken
-Wed: chili, baked potato
-Thu: Trader Joe's freezer food
-Fri:
-Sat:
+Sun: orzo, white bean, kale  
+Mon: miso niko chicken, white rice, broccoli  
+Tue: honey lime chicken  
+Wed: chili, baked potato  
+Thu: Trader Joe's freezer food  
+Fri:  
+Sat:  
 
 ---
 
@@ -113,7 +113,7 @@ Sat:
 ### Week of September 27, 2026
 
 Sun: bolognese  
-Mon: crunchy tofu grain/salad bowl w/beets 
+Mon: crunchy tofu grain/salad bowl w/beets  
 Tue: halal cart chicken, yellow rice, salad  
 Wed: dumplings  
 Thu: shakshuka, pita, cucumber tomato, yogurt  
@@ -358,7 +358,7 @@ Mon: DIY pasta
 Tue: guiness stew  
 Wed: Thai curry, miso cabbage, rice  
 Thu: plantains w/ tomatoes and eggs, chicken nuggies  
-Fri:
+Fri:  
 
 ---
 
@@ -384,7 +384,7 @@ Mon: nabemono, crispy fried chicken (Trader Joe's), leftover rice
 Tue: miso gochujang pulled pork, pickles, broccoli  
 Wed: chili scallion noodles  
 Thu: chicken nuggies, brussels, mashed/roast potato  
-Fri:
+Fri:  
 
 ---
 
@@ -397,7 +397,7 @@ Mon: pasta aglio olio, broccoli
 Tue: jerk salmon  
 Wed: charcuterie, matzoh  
 Thu: dinner at moms  
-Fri:
+Fri:  
 
 ---
 
@@ -409,8 +409,8 @@ Sun: miso butter pasta, mushrooms, leftover chicken
 Mon: Wendy's  
 Tue: butter slow cooker chicken, egg noodles, green beans  
 Wed: cabbage, ground beef, fish sauce, white rice, spam, egg  
-Thu:
-Fri:
+Thu:  
+Fri:  
 
 ---
 
@@ -565,7 +565,7 @@ Mon: Tuna Mayo, Rice, Cabbage, Miso Soup
 Tue: Chicken paprikash, egg noodles, steamed broccoli  
 Wed: Family Night  
 Thu: Roux based mac and cheese  
-Fri:    
+Fri:  
 
 ---
 
@@ -578,7 +578,7 @@ Mon: Japanese curry, rice, chicken nuggets, steamed broccoli
 Tue: Sous vide chicken legs, polenta, Parmesan braised beans with olives (NYTimes)  
 Wed: Miso butter pasta, tofu, side salad  
 Thu: Meatloaf, potatoes, green beans  
-Fri:    
+Fri:  
 
 ---
 
@@ -591,7 +591,7 @@ Mon: Thai basil chicken, shredded cabbage w/ lime & fish sauce
 Tue: Pupusas, cabbage slaw, sauce  
 Wed: Brown rice bowl w/ fried eggs, shredded carrot, pickled veggies, marinated beef and/or tofu, bibimbap  
 Thu: Local beef stew  
-Fri:    
+Fri:  
 
 ---
 
@@ -617,7 +617,7 @@ Mon: Homemade ramen
 Tue: Oyakadon, rice, miso soup, cabbage salad  
 Wed: Patty melt, chips, fresh fruit  
 Thu: Chicken cacciatore, pasta, chard  
-Fri:    
+Fri:  
 
 ---
 
@@ -630,7 +630,7 @@ Mon: Chicken mole, yellow rice, beans (flex to a taco)
 Tue: Shakshuka, Israeli salad, pita, yogurt  
 Wed: Toastie w/ bacon (and tomato), cole slaw, chips  
 Thu: Japanese curry vegetable w/ leftover rice  
-Fri:    
+Fri:  
 
 ---
 
