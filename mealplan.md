@@ -22,16 +22,18 @@
 - [meal] cheeseburger soup
 - [meal] hamburger curry
 - [meal] beef stew
-- [meal] pumpkin soup
+- ~~[meal] pumpkin soup~~
+- [meal] chicken Tikka / saag mix
 
 ### Next
 
 - ~~beets, miso niko chicken~~
-- chicken tikka / skewers
-- bim bim bap
+- ~~hawaiian pork over rice~~
+- ~~pork tenderloin w/ mash plantains~~
+- ~~chicken tikka / skewers~~
+- ~~bim bim bap~~
 - Rasta pasta
-- hawaiian pork over rice
-- pork tenderloin w/ mash plantains
+
 
 #### Ingredients to use
 
@@ -48,13 +50,25 @@ Odd/specific items in the fridge to work into upcoming meals:
 - Gochujang
 - Horseradish
 
+### Week of November 1, 2026
+
+Sun: hot pot
+Mon: tuna mayo rice, cabbage salad
+Tue: tikka / saag mix
+Wed: chili, Brazilian French bread, salad kit
+Thu:
+Fri:
+Sat: homemade mac and cheese
+
+---
+
 ### Week of October 25, 2026
 
-Sun:
-Mon: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)
-Tue:
-Wed:
-Thu:
+Sun: miso butter pasta, crispy tofu, cabbage, sardines
+Mon: ribeye, duck fat potatoes, broccoli, roast eggplant
+Tue: bim bim bap
+Wed: arroz con pollo + veg, (chicken thigh, onion, tomato, chipotle, broccoli, zucchini, hatch)
+Thu: cheeseburger soup, salad kit, brazilian french bread or cheesy bread
 Fri:
 Sat:
 
@@ -66,7 +80,7 @@ Sun: chicken tikka, naan, saag
 Mon: pork tenderloin, mashed plantain, beans
 Tue: beef and broccoli, egg drop soup, white rice
 Wed: quack, nugs, green beans, ferro
-Thu: miso butter pasta, crispy tofu, salad, sardines
+Thu: ~~miso butter pasta, crispy tofu, salad, sardines~~ (bumped to Sun Oct 25)
 Fri:
 Sat:
 
@@ -709,4 +723,6 @@ Thu: Miso butter pasta, chicken, salad stuff
 Fri: Pizza  
 
 ---
+
+
 
